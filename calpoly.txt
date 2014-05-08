@@ -1,0 +1,2602 @@
+195.499Item:[20, 20, 12]
+The line is: 195.499
+Created the tree successfully using 10th10opse10sec.jmx
+Starting the test @ Sun Jan 26 17:13:21 GMT 2014 (1390756401094)
+Waiting for possible shutdown message on port 4445
+#0	Threads: 800/800	Samples: 1	Latency: 548	Resp.Time: 548	Errors: 0
+#1	Threads: 800/800	Samples: 655	Latency: 261	Resp.Time: 261	Errors: 0
+#2	Threads: 800/800	Samples: 1354	Latency: 315	Resp.Time: 315	Errors: 0
+Number of secs passed the criteria: 1
+Time:1
+Expected op/per/sec: 20
+Actual   Hit/per/sec: 656
+Actual   Op/per/sec: 656
+25th Percentile    : 175.0
+50th Percentile    : 186.0
+75th Percentile    : 203.0
+90th Percentile    : 569.0
+99th Percentile    : 722.44
+---------------------------------------------------------------
+#3	Threads: 800/800	Samples: 272	Latency: 192	Resp.Time: 192	Errors: 0
+Number of secs passed the criteria: 2
+Time:2
+Expected op/per/sec: 20
+Actual   Hit/per/sec: 1354
+Actual   Op/per/sec: 1354
+25th Percentile    : 175.0
+50th Percentile    : 180.0
+75th Percentile    : 190.0
+90th Percentile    : 207.5999999999999
+99th Percentile    : 1684.46
+---------------------------------------------------------------
+#4	Threads: 800/800	Samples: 148	Latency: 3278	Resp.Time: 3278	Errors: 0
+Number of secs passed the criteria: 3
+Time:3
+Expected op/per/sec: 20
+Actual   Hit/per/sec: 20
+Actual   Op/per/sec: 272
+25th Percentile    : 175.0
+50th Percentile    : 187.0
+75th Percentile    : 205.0
+90th Percentile    : 222.0
+99th Percentile    : 243.0
+---------------------------------------------------------------
+#5	Threads: 800/800	Samples: 20	Latency: 178	Resp.Time: 178	Errors: 0
+Time:4
+Expected op/per/sec: 20
+Actual   Hit/per/sec: 20
+Actual   Op/per/sec: 148
+25th Percentile    : 3696.0
+50th Percentile    : 3744.0
+75th Percentile    : 3792.0
+90th Percentile    : 3841.2
+99th Percentile    : 3923.2000000000003
+---------------------------------------------------------------
+#6	Threads: 800/800	Samples: 21	Latency: 180	Resp.Time: 179	Errors: 0
+Number of secs passed the criteria: 4
+Time:5
+Expected op/per/sec: 20
+Actual   Hit/per/sec: 20
+Actual   Op/per/sec: 20
+25th Percentile    : 174.0
+50th Percentile    : 175.0
+75th Percentile    : 186.0
+90th Percentile    : 187.0
+99th Percentile    : 187.8
+---------------------------------------------------------------
+#7	Threads: 800/800	Samples: 20	Latency: 180	Resp.Time: 179	Errors: 0
+Number of secs passed the criteria: 5
+Time:6
+Expected op/per/sec: 20
+Actual   Hit/per/sec: 20
+Actual   Op/per/sec: 21
+25th Percentile    : 175.0
+50th Percentile    : 175.5
+75th Percentile    : 187.0
+90th Percentile    : 187.9
+99th Percentile    : 188.0
+---------------------------------------------------------------
+#8	Threads: 800/800	Samples: 113	Latency: 6458	Resp.Time: 6458	Errors: 0
+Number of secs passed the criteria: 6
+Time:7
+Expected op/per/sec: 20
+Actual   Hit/per/sec: 20
+Actual   Op/per/sec: 20
+25th Percentile    : 175.0
+50th Percentile    : 175.0
+75th Percentile    : 187.0
+90th Percentile    : 187.0
+99th Percentile    : 188.0
+---------------------------------------------------------------
+#9	Threads: 800/800	Samples: 20	Latency: 183	Resp.Time: 182	Errors: 0
+Time:8
+Expected op/per/sec: 20
+Actual   Hit/per/sec: 20
+Actual   Op/per/sec: 113
+25th Percentile    : 7742.0
+50th Percentile    : 7760.5
+75th Percentile    : 7826.75
+90th Percentile    : 7918.5
+99th Percentile    : 7973.66
+---------------------------------------------------------------
+#10	Threads: 800/800	Samples: 19	Latency: 183	Resp.Time: 182	Errors: 0
+Number of secs passed the criteria: 7
+Time:9
+Expected op/per/sec: 20
+Actual   Hit/per/sec: 20
+Actual   Op/per/sec: 20
+25th Percentile    : 175.0
+50th Percentile    : 176.0
+75th Percentile    : 199.0
+90th Percentile    : 200.0
+99th Percentile    : 200.8
+---------------------------------------------------------------
+#11	Threads: 800/800	Samples: 21	Latency: 180	Resp.Time: 180	Errors: 0
+Number of secs passed the criteria: 8
+numSecPassedCondexpected:4 <=numSecPassedCond: 8
+Item:[40, 40, 10]
+Time:10
+Expected op/per/sec: 20
+Actual   Hit/per/sec: 20
+Actual   Op/per/sec: 19
+25th Percentile    : 175.0
+50th Percentile    : 175.0
+75th Percentile    : 200.0
+90th Percentile    : 200.0
+99th Percentile    : 200.81
+---------------------------------------------------------------
+#12	Threads: 800/800	Samples: 19	Latency: 181	Resp.Time: 181	Errors: 0
+Number of secs passed the criteria: 1
+Time:11
+Expected op/per/sec: 20
+Actual   Hit/per/sec: 20
+Actual   Op/per/sec: 21
+25th Percentile    : 175.0
+50th Percentile    : 175.0
+75th Percentile    : 176.0
+90th Percentile    : 199.0
+99th Percentile    : 200.0
+---------------------------------------------------------------
+#13	Threads: 800/800	Samples: 36	Latency: 179	Resp.Time: 178	Errors: 0
+Number of secs passed the criteria: 2
+Time:12
+Expected op/per/sec: 20
+Actual   Hit/per/sec: 19
+Actual   Op/per/sec: 19
+25th Percentile    : 175.0
+50th Percentile    : 175.5
+75th Percentile    : 181.75
+90th Percentile    : 200.0
+99th Percentile    : 200.81
+---------------------------------------------------------------
+#14	Threads: 800/800	Samples: 40	Latency: 182	Resp.Time: 181	Errors: 0
+Number of secs passed the criteria: 3
+Time:13
+Expected op/per/sec: 40
+Actual   Hit/per/sec: 40
+Actual   Op/per/sec: 36
+25th Percentile    : 175.0
+50th Percentile    : 175.0
+75th Percentile    : 176.0
+90th Percentile    : 199.0
+99th Percentile    : 199.64
+---------------------------------------------------------------
+#15	Threads: 800/800	Samples: 40	Latency: 178	Resp.Time: 178	Errors: 0
+Number of secs passed the criteria: 4
+Time:14
+Expected op/per/sec: 40
+Actual   Hit/per/sec: 40
+Actual   Op/per/sec: 40
+25th Percentile    : 175.0
+50th Percentile    : 175.0
+75th Percentile    : 188.0
+90th Percentile    : 199.0
+99th Percentile    : 200.0
+---------------------------------------------------------------
+#16	Threads: 800/800	Samples: 104	Latency: 9787	Resp.Time: 9787	Errors: 0
+Number of secs passed the criteria: 5
+Time:15
+Expected op/per/sec: 40
+Actual   Hit/per/sec: 40
+Actual   Op/per/sec: 40
+25th Percentile    : 174.0
+50th Percentile    : 175.0
+75th Percentile    : 176.0
+90th Percentile    : 198.0
+99th Percentile    : 200.0
+---------------------------------------------------------------
+#17	Threads: 800/800	Samples: 39	Latency: 182	Resp.Time: 182	Errors: 0
+Time:16
+Expected op/per/sec: 40
+Actual   Hit/per/sec: 40
+Actual   Op/per/sec: 104
+25th Percentile    : 186.0
+50th Percentile    : 15695.0
+75th Percentile    : 15793.0
+90th Percentile    : 15888.6
+99th Percentile    : 15940.96
+---------------------------------------------------------------
+#18	Threads: 800/800	Samples: 39	Latency: 186	Resp.Time: 187	Errors: 0
+Number of secs passed the criteria: 6
+Time:17
+Expected op/per/sec: 40
+Actual   Hit/per/sec: 39
+Actual   Op/per/sec: 39
+25th Percentile    : 174.0
+50th Percentile    : 186.0
+75th Percentile    : 187.0
+90th Percentile    : 198.0
+99th Percentile    : 199.0
+---------------------------------------------------------------
+#19	Threads: 800/800	Samples: 39	Latency: 185	Resp.Time: 186	Errors: 0
+Number of secs passed the criteria: 7
+Time:18
+Expected op/per/sec: 40
+Actual   Hit/per/sec: 39
+Actual   Op/per/sec: 39
+25th Percentile    : 174.0
+50th Percentile    : 186.0
+75th Percentile    : 198.25
+90th Percentile    : 199.0
+99th Percentile    : 199.61
+---------------------------------------------------------------
+#20	Threads: 800/800	Samples: 39	Latency: 184	Resp.Time: 185	Errors: 0
+Number of secs passed the criteria: 8
+Time:19
+Expected op/per/sec: 40
+Actual   Hit/per/sec: 39
+Actual   Op/per/sec: 39
+25th Percentile    : 183.25
+50th Percentile    : 187.0
+75th Percentile    : 187.25
+90th Percentile    : 198.1
+99th Percentile    : 199.0
+---------------------------------------------------------------
+#21	Threads: 800/800	Samples: 40	Latency: 188	Resp.Time: 188	Errors: 0
+Number of secs passed the criteria: 9
+numSecPassedCondexpected:5 <=numSecPassedCond: 9
+Item:[80, 80, 10]
+Time:20
+Expected op/per/sec: 40
+Actual   Hit/per/sec: 40
+Actual   Op/per/sec: 39
+25th Percentile    : 183.25
+50th Percentile    : 186.0
+75th Percentile    : 187.0
+90th Percentile    : 188.0
+99th Percentile    : 199.0
+---------------------------------------------------------------
+#22	Threads: 800/800	Samples: 39	Latency: 191	Resp.Time: 191	Errors: 0
+Number of secs passed the criteria: 1
+Time:21
+Expected op/per/sec: 40
+Actual   Hit/per/sec: 39
+Actual   Op/per/sec: 40
+25th Percentile    : 186.0
+50th Percentile    : 187.0
+75th Percentile    : 198.0
+90th Percentile    : 199.0
+99th Percentile    : 200.0
+---------------------------------------------------------------
+#23	Threads: 800/800	Samples: 73	Latency: 181	Resp.Time: 181	Errors: 0
+Number of secs passed the criteria: 2
+Time:22
+Expected op/per/sec: 40
+Actual   Hit/per/sec: 40
+Actual   Op/per/sec: 39
+25th Percentile    : 186.0
+50th Percentile    : 187.5
+75th Percentile    : 199.0
+90th Percentile    : 199.0
+99th Percentile    : 200.0
+---------------------------------------------------------------
+#24	Threads: 800/800	Samples: 80	Latency: 179	Resp.Time: 179	Errors: 0
+Number of secs passed the criteria: 3
+Time:23
+Expected op/per/sec: 80
+Actual   Hit/per/sec: 80
+Actual   Op/per/sec: 73
+25th Percentile    : 174.0
+50th Percentile    : 175.0
+75th Percentile    : 187.75
+90th Percentile    : 199.0
+99th Percentile    : 200.0
+---------------------------------------------------------------
+#25	Threads: 800/800	Samples: 80	Latency: 179	Resp.Time: 179	Errors: 0
+Number of secs passed the criteria: 4
+Time:24
+Expected op/per/sec: 80
+Actual   Hit/per/sec: 80
+Actual   Op/per/sec: 80
+25th Percentile    : 174.0
+50th Percentile    : 175.0
+75th Percentile    : 187.0
+90th Percentile    : 187.0
+99th Percentile    : 199.0
+---------------------------------------------------------------
+#26	Threads: 800/800	Samples: 80	Latency: 184	Resp.Time: 184	Errors: 0
+Number of secs passed the criteria: 5
+Time:25
+Expected op/per/sec: 80
+Actual   Hit/per/sec: 80
+Actual   Op/per/sec: 80
+25th Percentile    : 174.0
+50th Percentile    : 175.0
+75th Percentile    : 186.0
+90th Percentile    : 187.0
+99th Percentile    : 200.0
+---------------------------------------------------------------
+#27	Threads: 800/800	Samples: 79	Latency: 183	Resp.Time: 183	Errors: 0
+Number of secs passed the criteria: 6
+Time:26
+Expected op/per/sec: 80
+Actual   Hit/per/sec: 79
+Actual   Op/per/sec: 80
+25th Percentile    : 175.0
+50th Percentile    : 186.0
+75th Percentile    : 187.0
+90th Percentile    : 197.0
+99th Percentile    : 200.0
+---------------------------------------------------------------
+#28	Threads: 800/800	Samples: 78	Latency: 185	Resp.Time: 185	Errors: 0
+Number of secs passed the criteria: 7
+Time:27
+Expected op/per/sec: 80
+Actual   Hit/per/sec: 79
+Actual   Op/per/sec: 79
+25th Percentile    : 174.0
+50th Percentile    : 186.0
+75th Percentile    : 187.0
+90th Percentile    : 191.0
+99th Percentile    : 206.51999999999992
+---------------------------------------------------------------
+#29	Threads: 800/800	Samples: 79	Latency: 186	Resp.Time: 186	Errors: 0
+Number of secs passed the criteria: 8
+Time:28
+Expected op/per/sec: 80
+Actual   Hit/per/sec: 78
+Actual   Op/per/sec: 78
+25th Percentile    : 186.0
+50th Percentile    : 186.0
+75th Percentile    : 187.0
+90th Percentile    : 188.0
+99th Percentile    : 199.22
+---------------------------------------------------------------
+#30	Threads: 800/800	Samples: 79	Latency: 177	Resp.Time: 178	Errors: 0
+Number of secs passed the criteria: 9
+Time:29
+Expected op/per/sec: 80
+Actual   Hit/per/sec: 79
+Actual   Op/per/sec: 79
+25th Percentile    : 186.0
+50th Percentile    : 187.0
+75th Percentile    : 187.0
+90th Percentile    : 199.0
+99th Percentile    : 199.20999999999998
+---------------------------------------------------------------
+#31	Threads: 800/800	Samples: 79	Latency: 180	Resp.Time: 180	Errors: 0
+Number of secs passed the criteria: 10
+numSecPassedCondexpected:5 <=numSecPassedCond: 10
+Item:[160, 160, 10]
+Time:30
+Expected op/per/sec: 80
+Actual   Hit/per/sec: 79
+Actual   Op/per/sec: 79
+25th Percentile    : 174.0
+50th Percentile    : 174.0
+75th Percentile    : 176.0
+90th Percentile    : 187.0
+99th Percentile    : 198.0
+---------------------------------------------------------------
+#32	Threads: 800/800	Samples: 142	Latency: 14400	Resp.Time: 14400	Errors: 0
+Number of secs passed the criteria: 1
+Time:31
+Expected op/per/sec: 80
+Actual   Hit/per/sec: 80
+Actual   Op/per/sec: 79
+25th Percentile    : 174.0
+50th Percentile    : 175.0
+75th Percentile    : 186.0
+90th Percentile    : 187.0
+99th Percentile    : 199.20999999999998
+---------------------------------------------------------------
+#33	Threads: 800/800	Samples: 145	Latency: 189	Resp.Time: 189	Errors: 0
+Number of secs passed the criteria: 2
+Time:32
+Expected op/per/sec: 80
+Actual   Hit/per/sec: 79
+Actual   Op/per/sec: 142
+25th Percentile    : 175.0
+50th Percentile    : 199.0
+75th Percentile    : 31742.0
+90th Percentile    : 31743.0
+99th Percentile    : 31793.0
+---------------------------------------------------------------
+#34	Threads: 800/800	Samples: 161	Latency: 184	Resp.Time: 185	Errors: 0
+Number of secs passed the criteria: 3
+Time:33
+Expected op/per/sec: 160
+Actual   Hit/per/sec: 159
+Actual   Op/per/sec: 145
+25th Percentile    : 175.0
+50th Percentile    : 186.0
+75th Percentile    : 187.75
+90th Percentile    : 199.0
+99th Percentile    : 199.55
+---------------------------------------------------------------
+#35	Threads: 800/800	Samples: 159	Latency: 178	Resp.Time: 179	Errors: 0
+Number of secs passed the criteria: 4
+Time:34
+Expected op/per/sec: 160
+Actual   Hit/per/sec: 159
+Actual   Op/per/sec: 161
+25th Percentile    : 175.0
+50th Percentile    : 186.0
+75th Percentile    : 187.0
+90th Percentile    : 198.0
+99th Percentile    : 199.0
+---------------------------------------------------------------
+#36	Threads: 800/800	Samples: 160	Latency: 180	Resp.Time: 180	Errors: 0
+Number of secs passed the criteria: 5
+Time:35
+Expected op/per/sec: 160
+Actual   Hit/per/sec: 160
+Actual   Op/per/sec: 159
+25th Percentile    : 174.0
+50th Percentile    : 174.0
+75th Percentile    : 186.0
+90th Percentile    : 187.1
+99th Percentile    : 199.0
+---------------------------------------------------------------
+#37	Threads: 800/800	Samples: 158	Latency: 184	Resp.Time: 184	Errors: 0
+Number of secs passed the criteria: 6
+Time:36
+Expected op/per/sec: 160
+Actual   Hit/per/sec: 159
+Actual   Op/per/sec: 160
+25th Percentile    : 174.0
+50th Percentile    : 175.0
+75th Percentile    : 186.0
+90th Percentile    : 187.0
+99th Percentile    : 199.0
+---------------------------------------------------------------
+#38	Threads: 800/800	Samples: 159	Latency: 184	Resp.Time: 184	Errors: 0
+Number of secs passed the criteria: 7
+Time:37
+Expected op/per/sec: 160
+Actual   Hit/per/sec: 159
+Actual   Op/per/sec: 158
+25th Percentile    : 174.0
+50th Percentile    : 186.0
+75th Percentile    : 187.0
+90th Percentile    : 198.0
+99th Percentile    : 199.0
+---------------------------------------------------------------
+#39	Threads: 800/800	Samples: 160	Latency: 180	Resp.Time: 180	Errors: 0
+Number of secs passed the criteria: 8
+Time:38
+Expected op/per/sec: 160
+Actual   Hit/per/sec: 159
+Actual   Op/per/sec: 159
+25th Percentile    : 174.0
+50th Percentile    : 186.0
+75th Percentile    : 187.0
+90th Percentile    : 198.1
+99th Percentile    : 199.41
+---------------------------------------------------------------
+#40	Threads: 800/800	Samples: 159	Latency: 183	Resp.Time: 183	Errors: 0
+Number of secs passed the criteria: 9
+Time:39
+Expected op/per/sec: 160
+Actual   Hit/per/sec: 160
+Actual   Op/per/sec: 160
+25th Percentile    : 174.0
+50th Percentile    : 175.0
+75th Percentile    : 186.0
+90th Percentile    : 187.0
+99th Percentile    : 203.40000000000003
+---------------------------------------------------------------
+#41	Threads: 800/800	Samples: 161	Latency: 184	Resp.Time: 183	Errors: 0
+Number of secs passed the criteria: 10
+numSecPassedCondexpected:5 <=numSecPassedCond: 10
+Item:[320, 320, 10]
+Time:40
+Expected op/per/sec: 160
+Actual   Hit/per/sec: 160
+Actual   Op/per/sec: 159
+25th Percentile    : 175.0
+50th Percentile    : 186.0
+75th Percentile    : 187.0
+90th Percentile    : 198.0
+99th Percentile    : 200.0
+---------------------------------------------------------------
+#42	Threads: 800/800	Samples: 158	Latency: 181	Resp.Time: 180	Errors: 0
+Number of secs passed the criteria: 1
+Time:41
+Expected op/per/sec: 160
+Actual   Hit/per/sec: 160
+Actual   Op/per/sec: 161
+25th Percentile    : 175.0
+50th Percentile    : 187.0
+75th Percentile    : 188.0
+90th Percentile    : 189.0
+99th Percentile    : 200.0
+---------------------------------------------------------------
+#43	Threads: 800/800	Samples: 290	Latency: 180	Resp.Time: 180	Errors: 0
+Number of secs passed the criteria: 2
+Time:42
+Expected op/per/sec: 160
+Actual   Hit/per/sec: 159
+Actual   Op/per/sec: 158
+25th Percentile    : 175.0
+50th Percentile    : 176.0
+75th Percentile    : 187.0
+90th Percentile    : 188.2
+99th Percentile    : 200.0
+---------------------------------------------------------------
+#44	Threads: 800/800	Samples: 319	Latency: 185	Resp.Time: 184	Errors: 0
+Number of secs passed the criteria: 3
+Time:43
+Expected op/per/sec: 320
+Actual   Hit/per/sec: 320
+Actual   Op/per/sec: 290
+25th Percentile    : 175.0
+50th Percentile    : 176.0
+75th Percentile    : 187.0
+90th Percentile    : 188.0
+99th Percentile    : 200.0
+---------------------------------------------------------------
+#45	Threads: 800/800	Samples: 321	Latency: 185	Resp.Time: 184	Errors: 0
+Number of secs passed the criteria: 4
+Time:44
+Expected op/per/sec: 320
+Actual   Hit/per/sec: 320
+Actual   Op/per/sec: 319
+25th Percentile    : 175.0
+50th Percentile    : 187.0
+75th Percentile    : 188.0
+90th Percentile    : 200.0
+99th Percentile    : 201.0
+---------------------------------------------------------------
+#46	Threads: 800/800	Samples: 319	Latency: 183	Resp.Time: 182	Errors: 0
+Number of secs passed the criteria: 5
+Time:45
+Expected op/per/sec: 320
+Actual   Hit/per/sec: 319
+Actual   Op/per/sec: 321
+25th Percentile    : 175.0
+50th Percentile    : 186.0
+75th Percentile    : 188.0
+90th Percentile    : 200.0
+99th Percentile    : 203.9500000000001
+---------------------------------------------------------------
+#47	Threads: 800/800	Samples: 319	Latency: 184	Resp.Time: 183	Errors: 0
+Number of secs passed the criteria: 6
+Time:46
+Expected op/per/sec: 320
+Actual   Hit/per/sec: 318
+Actual   Op/per/sec: 321
+25th Percentile    : 175.0
+50th Percentile    : 187.0
+75th Percentile    : 188.0
+90th Percentile    : 199.0
+99th Percentile    : 200.0
+---------------------------------------------------------------
+#48	Threads: 800/800	Samples: 318	Latency: 181	Resp.Time: 181	Errors: 0
+Number of secs passed the criteria: 7
+Time:47
+Expected op/per/sec: 320
+Actual   Hit/per/sec: 320
+Actual   Op/per/sec: 317
+25th Percentile    : 175.0
+50th Percentile    : 187.0
+75th Percentile    : 188.0
+90th Percentile    : 199.0
+99th Percentile    : 201.0
+---------------------------------------------------------------
+#49	Threads: 800/800	Samples: 320	Latency: 183	Resp.Time: 183	Errors: 0
+Number of secs passed the criteria: 8
+Time:48
+Expected op/per/sec: 320
+Actual   Hit/per/sec: 319
+Actual   Op/per/sec: 320
+25th Percentile    : 175.0
+50th Percentile    : 177.0
+75th Percentile    : 187.0
+90th Percentile    : 188.0
+99th Percentile    : 200.0
+---------------------------------------------------------------
+#50	Threads: 800/800	Samples: 320	Latency: 182	Resp.Time: 181	Errors: 0
+Number of secs passed the criteria: 9
+Time:49
+Expected op/per/sec: 320
+Actual   Hit/per/sec: 320
+Actual   Op/per/sec: 319
+25th Percentile    : 175.0
+50th Percentile    : 187.0
+75th Percentile    : 187.0
+90th Percentile    : 199.0
+99th Percentile    : 200.0
+---------------------------------------------------------------
+#51	Threads: 800/800	Samples: 317	Latency: 184	Resp.Time: 183	Errors: 0
+Number of secs passed the criteria: 10
+numSecPassedCondexpected:5 <=numSecPassedCond: 10
+Item:[640, 640, 10]
+Time:50
+Expected op/per/sec: 320
+Actual   Hit/per/sec: 317
+Actual   Op/per/sec: 319
+25th Percentile    : 175.0
+50th Percentile    : 176.0
+75th Percentile    : 187.0
+90th Percentile    : 199.0
+99th Percentile    : 200.0
+---------------------------------------------------------------
+#52	Threads: 800/800	Samples: 319	Latency: 182	Resp.Time: 181	Errors: 0
+Number of secs passed the criteria: 1
+Time:51
+Expected op/per/sec: 320
+Actual   Hit/per/sec: 317
+Actual   Op/per/sec: 318
+25th Percentile    : 175.0
+50th Percentile    : 187.0
+75th Percentile    : 188.0
+90th Percentile    : 199.0
+99th Percentile    : 200.0
+---------------------------------------------------------------
+#53	Threads: 800/800	Samples: 582	Latency: 182	Resp.Time: 182	Errors: 0
+Number of secs passed the criteria: 2
+Time:52
+Expected op/per/sec: 320
+Actual   Hit/per/sec: 320
+Actual   Op/per/sec: 318
+25th Percentile    : 175.0
+50th Percentile    : 176.0
+75th Percentile    : 187.0
+90th Percentile    : 199.0
+99th Percentile    : 200.0
+---------------------------------------------------------------
+Number of secs passed the criteria: 3
+Time:53
+Expected op/per/sec: 640
+Actual   Hit/per/sec: 639
+Actual   Op/per/sec: 582
+25th Percentile    : 175.0
+50th Percentile    : 186.0
+75th Percentile    : 187.0
+90th Percentile    : 199.0
+99th Percentile    : 200.0
+---------------------------------------------------------------
+#54	Threads: 800/800	Samples: 639	Latency: 184	Resp.Time: 183	Errors: 0
+#55	Threads: 800/800	Samples: 634	Latency: 183	Resp.Time: 182	Errors: 0
+Number of secs passed the criteria: 4
+Time:54
+Expected op/per/sec: 640
+Actual   Hit/per/sec: 640
+Actual   Op/per/sec: 639
+25th Percentile    : 175.0
+50th Percentile    : 187.0
+75th Percentile    : 187.0
+90th Percentile    : 199.0
+99th Percentile    : 200.61
+---------------------------------------------------------------
+#56	Threads: 800/800	Samples: 643	Latency: 182	Resp.Time: 182	Errors: 0
+Number of secs passed the criteria: 5
+Time:55
+Expected op/per/sec: 640
+Actual   Hit/per/sec: 639
+Actual   Op/per/sec: 634
+25th Percentile    : 175.0
+50th Percentile    : 187.0
+75th Percentile    : 187.0
+90th Percentile    : 199.0
+99th Percentile    : 200.0
+---------------------------------------------------------------
+#57	Threads: 800/800	Samples: 638	Latency: 183	Resp.Time: 182	Errors: 0
+Number of secs passed the criteria: 6
+Time:56
+Expected op/per/sec: 640
+Actual   Hit/per/sec: 640
+Actual   Op/per/sec: 645
+25th Percentile    : 175.0
+50th Percentile    : 186.0
+75th Percentile    : 187.0
+90th Percentile    : 199.0
+99th Percentile    : 200.0
+---------------------------------------------------------------
+#58	Threads: 800/800	Samples: 637	Latency: 184	Resp.Time: 183	Errors: 0
+Number of secs passed the criteria: 7
+Time:57
+Expected op/per/sec: 640
+Actual   Hit/per/sec: 637
+Actual   Op/per/sec: 636
+25th Percentile    : 175.0
+50th Percentile    : 186.0
+75th Percentile    : 187.0
+90th Percentile    : 199.0
+99th Percentile    : 200.0
+---------------------------------------------------------------
+#59	Threads: 800/800	Samples: 639	Latency: 183	Resp.Time: 182	Errors: 0
+Number of secs passed the criteria: 8
+Time:58
+Expected op/per/sec: 640
+Actual   Hit/per/sec: 639
+Actual   Op/per/sec: 638
+25th Percentile    : 175.0
+50th Percentile    : 187.0
+75th Percentile    : 187.0
+90th Percentile    : 199.0
+99th Percentile    : 200.0
+---------------------------------------------------------------
+#60	Threads: 800/800	Samples: 639	Latency: 182	Resp.Time: 182	Errors: 0
+Number of secs passed the criteria: 9
+Time:59
+Expected op/per/sec: 640
+Actual   Hit/per/sec: 639
+Actual   Op/per/sec: 638
+25th Percentile    : 175.0
+50th Percentile    : 187.0
+75th Percentile    : 187.0
+90th Percentile    : 199.0
+99th Percentile    : 200.0
+---------------------------------------------------------------
+#61	Threads: 800/800	Samples: 642	Latency: 183	Resp.Time: 183	Errors: 0
+Number of secs passed the criteria: 10
+numSecPassedCondexpected:5 <=numSecPassedCond: 10
+Item:[1280, 1280, 10]
+Time:60
+Expected op/per/sec: 640
+Actual   Hit/per/sec: 639
+Actual   Op/per/sec: 639
+25th Percentile    : 174.0
+50th Percentile    : 186.0
+75th Percentile    : 187.0
+90th Percentile    : 190.80000000000018
+99th Percentile    : 200.0
+---------------------------------------------------------------
+#62	Threads: 800/800	Samples: 639	Latency: 182	Resp.Time: 182	Errors: 0
+Number of secs passed the criteria: 1
+Time:61
+Expected op/per/sec: 640
+Actual   Hit/per/sec: 639
+Actual   Op/per/sec: 642
+25th Percentile    : 174.0
+50th Percentile    : 186.0
+75th Percentile    : 186.0
+90th Percentile    : 198.0
+99th Percentile    : 200.0
+---------------------------------------------------------------
+#63	Threads: 800/800	Samples: 1293	Latency: 9655	Resp.Time: 9656	Errors: 195
+Number of secs passed the criteria: 2
+Time:62
+Expected op/per/sec: 640
+Actual   Hit/per/sec: 640
+Actual   Op/per/sec: 639
+25th Percentile    : 174.0
+50th Percentile    : 185.0
+75th Percentile    : 186.0
+90th Percentile    : 198.0
+99th Percentile    : 199.0
+---------------------------------------------------------------
+#64	Threads: 800/800	Samples: 1323	Latency: 226	Resp.Time: 226	Errors: 0
+Number of secs passed the criteria: 3
+Time:63
+Expected op/per/sec: 1280
+Actual   Hit/per/sec: 1279
+Actual   Op/per/sec: 1293
+25th Percentile    : 174.0
+50th Percentile    : 186.0
+75th Percentile    : 195.25
+90th Percentile    : 63000.0
+99th Percentile    : 63001.0
+---------------------------------------------------------------
+#65	Threads: 800/800	Samples: 1298	Latency: 191	Resp.Time: 191	Errors: 0
+Number of secs passed the criteria: 4
+Time:64
+Expected op/per/sec: 1280
+Actual   Hit/per/sec: 1277
+Actual   Op/per/sec: 1323
+25th Percentile    : 174.0
+50th Percentile    : 186.0
+75th Percentile    : 189.0
+90th Percentile    : 521.7
+99th Percentile    : 595.0
+---------------------------------------------------------------
+#66	Threads: 800/800	Samples: 1279	Latency: 184	Resp.Time: 185	Errors: 0
+Number of secs passed the criteria: 5
+Time:65
+Expected op/per/sec: 1280
+Actual   Hit/per/sec: 1279
+Actual   Op/per/sec: 1297
+25th Percentile    : 174.0
+50th Percentile    : 186.0
+75th Percentile    : 187.0
+90th Percentile    : 198.0
+99th Percentile    : 559.0
+---------------------------------------------------------------
+#67	Threads: 800/800	Samples: 1280	Latency: 182	Resp.Time: 182	Errors: 0
+Number of secs passed the criteria: 6
+Time:66
+Expected op/per/sec: 1280
+Actual   Hit/per/sec: 1279
+Actual   Op/per/sec: 1279
+25th Percentile    : 174.0
+50th Percentile    : 186.0
+75th Percentile    : 186.0
+90th Percentile    : 198.0
+99th Percentile    : 200.0
+---------------------------------------------------------------
+Number of secs passed the criteria: 7
+Time:67
+Expected op/per/sec: 1280
+Actual   Hit/per/sec: 1279
+Actual   Op/per/sec: 1281
+25th Percentile    : 174.0
+50th Percentile    : 186.0
+75th Percentile    : 186.0
+90th Percentile    : 198.0
+99th Percentile    : 200.0
+---------------------------------------------------------------
+#68	Threads: 800/800	Samples: 1279	Latency: 183	Resp.Time: 184	Errors: 0
+#69	Threads: 800/800	Samples: 1274	Latency: 182	Resp.Time: 183	Errors: 0
+Number of secs passed the criteria: 8
+Time:68
+Expected op/per/sec: 1280
+Actual   Hit/per/sec: 1278
+Actual   Op/per/sec: 1277
+25th Percentile    : 174.0
+50th Percentile    : 186.0
+75th Percentile    : 186.0
+90th Percentile    : 198.0
+99th Percentile    : 216.0
+---------------------------------------------------------------
+#70	Threads: 800/800	Samples: 1278	Latency: 183	Resp.Time: 183	Errors: 0
+Number of secs passed the criteria: 9
+Time:69
+Expected op/per/sec: 1280
+Actual   Hit/per/sec: 1280
+Actual   Op/per/sec: 1276
+25th Percentile    : 174.0
+50th Percentile    : 186.0
+75th Percentile    : 186.0
+90th Percentile    : 198.0
+99th Percentile    : 206.0
+---------------------------------------------------------------
+#71	Threads: 800/800	Samples: 1270	Latency: 183	Resp.Time: 183	Errors: 0
+Number of secs passed the criteria: 10
+numSecPassedCondexpected:5 <=numSecPassedCond: 10
+Item:[2560, 2560, 10]
+Time:70
+Expected op/per/sec: 1280
+Actual   Hit/per/sec: 1278
+Actual   Op/per/sec: 1278
+25th Percentile    : 174.0
+50th Percentile    : 186.0
+75th Percentile    : 187.0
+90th Percentile    : 198.0
+99th Percentile    : 205.8800000000001
+---------------------------------------------------------------
+#72	Threads: 800/800	Samples: 1289	Latency: 182	Resp.Time: 182	Errors: 0
+Number of secs passed the criteria: 1
+Time:71
+Expected op/per/sec: 1280
+Actual   Hit/per/sec: 1278
+Actual   Op/per/sec: 1270
+25th Percentile    : 174.0
+50th Percentile    : 186.0
+75th Percentile    : 187.0
+90th Percentile    : 198.0
+99th Percentile    : 204.29999999999995
+---------------------------------------------------------------
+#73	Threads: 800/800	Samples: 2327	Latency: 186	Resp.Time: 186	Errors: 0
+Number of secs passed the criteria: 2
+Time:72
+Expected op/per/sec: 1280
+Actual   Hit/per/sec: 1279
+Actual   Op/per/sec: 1288
+25th Percentile    : 174.0
+50th Percentile    : 186.0
+75th Percentile    : 186.0
+90th Percentile    : 198.0
+99th Percentile    : 200.0
+---------------------------------------------------------------
+#74	Threads: 800/800	Samples: 2496	Latency: 185	Resp.Time: 185	Errors: 0
+Number of secs passed the criteria: 3
+Time:73
+Expected op/per/sec: 2560
+Actual   Hit/per/sec: 2558
+Actual   Op/per/sec: 2326
+25th Percentile    : 175.0
+50th Percentile    : 186.0
+75th Percentile    : 189.0
+90th Percentile    : 199.0
+99th Percentile    : 227.73999999999978
+---------------------------------------------------------------
+#75	Threads: 800/800	Samples: 2615	Latency: 186	Resp.Time: 187	Errors: 0
+Number of secs passed the criteria: 4
+Time:74
+Expected op/per/sec: 2560
+Actual   Hit/per/sec: 2553
+Actual   Op/per/sec: 2498
+25th Percentile    : 175.0
+50th Percentile    : 186.0
+75th Percentile    : 189.0
+90th Percentile    : 199.0
+99th Percentile    : 219.03999999999996
+---------------------------------------------------------------
+#76	Threads: 800/800	Samples: 2557	Latency: 184	Resp.Time: 184	Errors: 0
+Number of secs passed the criteria: 5
+Time:75
+Expected op/per/sec: 2560
+Actual   Hit/per/sec: 2558
+Actual   Op/per/sec: 2613
+25th Percentile    : 175.0
+50th Percentile    : 186.0
+75th Percentile    : 190.0
+90th Percentile    : 200.0
+99th Percentile    : 236.0
+---------------------------------------------------------------
+Number of secs passed the criteria: 6
+Time:76
+Expected op/per/sec: 2560
+Actual   Hit/per/sec: 2558
+Actual   Op/per/sec: 2558
+25th Percentile    : 174.0
+50th Percentile    : 186.0
+75th Percentile    : 187.0
+90th Percentile    : 198.0
+99th Percentile    : 215.0
+---------------------------------------------------------------
+#77	Threads: 800/800	Samples: 2510	Latency: 183	Resp.Time: 183	Errors: 0
+#78	Threads: 800/800	Samples: 2602	Latency: 186	Resp.Time: 187	Errors: 0
+Number of secs passed the criteria: 7
+Time:77
+Expected op/per/sec: 2560
+Actual   Hit/per/sec: 2555
+Actual   Op/per/sec: 2511
+25th Percentile    : 174.0
+50th Percentile    : 186.0
+75th Percentile    : 187.0
+90th Percentile    : 198.0
+99th Percentile    : 206.0
+---------------------------------------------------------------
+#79	Threads: 800/800	Samples: 2555	Latency: 185	Resp.Time: 185	Errors: 0
+Number of secs passed the criteria: 8
+Time:78
+Expected op/per/sec: 2560
+Actual   Hit/per/sec: 2558
+Actual   Op/per/sec: 2601
+25th Percentile    : 174.0
+50th Percentile    : 186.0
+75th Percentile    : 188.0
+90th Percentile    : 201.0
+99th Percentile    : 248.98999999999978
+---------------------------------------------------------------
+Number of secs passed the criteria: 9
+Time:79
+Expected op/per/sec: 2560
+Actual   Hit/per/sec: 2558
+Actual   Op/per/sec: 2555
+25th Percentile    : 174.0
+50th Percentile    : 186.0
+75th Percentile    : 188.0
+90th Percentile    : 199.0
+99th Percentile    : 235.0
+---------------------------------------------------------------
+#80	Threads: 800/800	Samples: 2522	Latency: 185	Resp.Time: 185	Errors: 0
+Number of secs passed the criteria: 10
+numSecPassedCondexpected:5 <=numSecPassedCond: 10
+Item:[5120, 5120, 10]
+Time:80
+Expected op/per/sec: 2560
+Actual   Hit/per/sec: 2558
+Actual   Op/per/sec: 2523
+25th Percentile    : 175.0
+50th Percentile    : 186.0
+75th Percentile    : 188.0
+90th Percentile    : 199.0
+99th Percentile    : 218.76999999999998
+---------------------------------------------------------------
+#81	Threads: 800/800	Samples: 2598	Latency: 187	Resp.Time: 187	Errors: 0
+#82	Threads: 800/800	Samples: 2554	Latency: 184	Resp.Time: 185	Errors: 0
+Number of secs passed the criteria: 1
+Time:81
+Expected op/per/sec: 2560
+Actual   Hit/per/sec: 2558
+Actual   Op/per/sec: 2596
+25th Percentile    : 175.0
+50th Percentile    : 186.0
+75th Percentile    : 189.0
+90th Percentile    : 200.0
+99th Percentile    : 240.1199999999999
+---------------------------------------------------------------
+#83	Threads: 800/800	Samples: 3423	Latency: 217	Resp.Time: 217	Errors: 0
+Number of secs passed the criteria: 2
+Time:82
+Expected op/per/sec: 2560
+Actual   Hit/per/sec: 2558
+Actual   Op/per/sec: 2556
+25th Percentile    : 175.0
+50th Percentile    : 186.0
+75th Percentile    : 187.0
+90th Percentile    : 199.0
+99th Percentile    : 223.0
+---------------------------------------------------------------
+#84	Threads: 800/800	Samples: 3694	Latency: 213	Resp.Time: 213	Errors: 0
+Time:83
+Expected op/per/sec: 5120
+Actual   Hit/per/sec: 3751
+Actual   Op/per/sec: 3422
+25th Percentile    : 188.0
+50th Percentile    : 212.0
+75th Percentile    : 234.0
+90th Percentile    : 258.0
+99th Percentile    : 359.7800000000002
+---------------------------------------------------------------
+#85	Threads: 800/800	Samples: 3508	Latency: 225	Resp.Time: 225	Errors: 0
+Time:84
+Expected op/per/sec: 5120
+Actual   Hit/per/sec: 3695
+Actual   Op/per/sec: 3695
+25th Percentile    : 189.0
+50th Percentile    : 206.0
+75th Percentile    : 228.0
+90th Percentile    : 247.0
+99th Percentile    : 346.0500000000002
+---------------------------------------------------------------
+#86	Threads: 800/800	Samples: 3685	Latency: 222	Resp.Time: 222	Errors: 0
+Time:85
+Expected op/per/sec: 5120
+Actual   Hit/per/sec: 3507
+Actual   Op/per/sec: 3507
+25th Percentile    : 197.0
+50th Percentile    : 219.0
+75th Percentile    : 242.0
+90th Percentile    : 264.0
+99th Percentile    : 411.0
+---------------------------------------------------------------
+#87	Threads: 800/800	Samples: 3434	Latency: 227	Resp.Time: 227	Errors: 0
+Time:86
+Expected op/per/sec: 5120
+Actual   Hit/per/sec: 3684
+Actual   Op/per/sec: 3685
+25th Percentile    : 199.0
+50th Percentile    : 215.0
+75th Percentile    : 233.0
+90th Percentile    : 257.0
+99th Percentile    : 394.0
+---------------------------------------------------------------
+#88	Threads: 800/800	Samples: 3334	Latency: 234	Resp.Time: 235	Errors: 0
+Time:87
+Expected op/per/sec: 5120
+Actual   Hit/per/sec: 3433
+Actual   Op/per/sec: 3432
+25th Percentile    : 192.0
+50th Percentile    : 214.0
+75th Percentile    : 238.0
+90th Percentile    : 307.0
+99th Percentile    : 397.0
+---------------------------------------------------------------
+#89	Threads: 800/800	Samples: 3593	Latency: 229	Resp.Time: 229	Errors: 0
+Time:88
+Expected op/per/sec: 5120
+Actual   Hit/per/sec: 3336
+Actual   Op/per/sec: 3336
+25th Percentile    : 206.0
+50th Percentile    : 224.0
+75th Percentile    : 249.0
+90th Percentile    : 277.0
+99th Percentile    : 445.75999999999885
+---------------------------------------------------------------
+#90	Threads: 800/800	Samples: 3604	Latency: 225	Resp.Time: 225	Errors: 0
+Time:89
+Expected op/per/sec: 5120
+Actual   Hit/per/sec: 3594
+Actual   Op/per/sec: 3594
+25th Percentile    : 200.0
+50th Percentile    : 228.0
+75th Percentile    : 245.0
+90th Percentile    : 265.0
+99th Percentile    : 373.17999999999984
+---------------------------------------------------------------
+#91	Threads: 800/800	Samples: 3617	Latency: 219	Resp.Time: 219	Errors: 0
+numSecPassedCondexpected:5 <=numSecPassedCond: 2
+Item:[5120, 5120, 10]
+Time:90
+Expected op/per/sec: 5120
+Actual   Hit/per/sec: 3601
+Actual   Op/per/sec: 3601
+25th Percentile    : 198.0
+50th Percentile    : 220.0
+75th Percentile    : 245.0
+90th Percentile    : 267.0
+99th Percentile    : 375.0
+---------------------------------------------------------------
+#92	Threads: 800/800	Samples: 4268	Latency: 188	Resp.Time: 188	Errors: 0
+Time:91
+Expected op/per/sec: 5120
+Actual   Hit/per/sec: 3619
+Actual   Op/per/sec: 3620
+25th Percentile    : 189.0
+50th Percentile    : 208.0
+75th Percentile    : 242.0
+90th Percentile    : 264.0
+99th Percentile    : 343.8000000000002
+---------------------------------------------------------------
+#93	Threads: 800/800	Samples: 3632	Latency: 189	Resp.Time: 189	Errors: 0
+Number of secs passed the criteria: 1
+Time:92
+Expected op/per/sec: 5120
+Actual   Hit/per/sec: 4263
+Actual   Op/per/sec: 4263
+25th Percentile    : 178.0
+50th Percentile    : 187.0
+75th Percentile    : 192.0
+90th Percentile    : 202.0
+99th Percentile    : 232.3699999999999
+---------------------------------------------------------------
+#94	Threads: 800/800	Samples: 3481	Latency: 212	Resp.Time: 212	Errors: 0
+Time:93
+Expected op/per/sec: 5120
+Actual   Hit/per/sec: 3638
+Actual   Op/per/sec: 3637
+25th Percentile    : 179.0
+50th Percentile    : 187.0
+75th Percentile    : 192.0
+90th Percentile    : 202.0
+99th Percentile    : 237.0
+---------------------------------------------------------------
+#95	Threads: 800/800	Samples: 3899	Latency: 195	Resp.Time: 196	Errors: 0
+Time:94
+Expected op/per/sec: 5120
+Actual   Hit/per/sec: 3481
+Actual   Op/per/sec: 3481
+25th Percentile    : 186.0
+50th Percentile    : 198.0
+75th Percentile    : 235.0
+90th Percentile    : 272.0
+99th Percentile    : 308.0
+---------------------------------------------------------------
+#96	Threads: 800/800	Samples: 4353	Latency: 189	Resp.Time: 190	Errors: 0
+Time:95
+Expected op/per/sec: 5120
+Actual   Hit/per/sec: 3899
+Actual   Op/per/sec: 3899
+25th Percentile    : 178.0
+50th Percentile    : 188.0
+75th Percentile    : 200.0
+90th Percentile    : 222.0999999999999
+99th Percentile    : 304.0
+---------------------------------------------------------------
+#97	Threads: 800/800	Samples: 4193	Latency: 189	Resp.Time: 189	Errors: 0
+Number of secs passed the criteria: 2
+Time:96
+Expected op/per/sec: 5120
+Actual   Hit/per/sec: 4343
+Actual   Op/per/sec: 4344
+25th Percentile    : 179.0
+50th Percentile    : 188.0
+75th Percentile    : 195.0
+90th Percentile    : 207.0
+99th Percentile    : 240.0
+---------------------------------------------------------------
+#98	Threads: 800/800	Samples: 4188	Latency: 192	Resp.Time: 192	Errors: 0
+Number of secs passed the criteria: 3
+Time:97
+Expected op/per/sec: 5120
+Actual   Hit/per/sec: 4202
+Actual   Op/per/sec: 4202
+25th Percentile    : 181.0
+50th Percentile    : 187.0
+75th Percentile    : 194.0
+90th Percentile    : 203.0
+99th Percentile    : 237.97999999999956
+---------------------------------------------------------------
+#99	Threads: 800/800	Samples: 3807	Latency: 202	Resp.Time: 203	Errors: 0
+Number of secs passed the criteria: 4
+Time:98
+Expected op/per/sec: 5120
+Actual   Hit/per/sec: 4187
+Actual   Op/per/sec: 4186
+25th Percentile    : 180.0
+50th Percentile    : 188.0
+75th Percentile    : 199.0
+90th Percentile    : 212.0
+99th Percentile    : 263.1400000000003
+---------------------------------------------------------------
+#100	Threads: 800/800	Samples: 3493	Latency: 219	Resp.Time: 220	Errors: 0
+Time:99
+Expected op/per/sec: 5120
+Actual   Hit/per/sec: 3806
+Actual   Op/per/sec: 3806
+25th Percentile    : 188.0
+50th Percentile    : 200.0
+75th Percentile    : 209.5
+90th Percentile    : 225.0
+99th Percentile    : 302.94000000000005
+---------------------------------------------------------------
+#101	Threads: 800/800	Samples: 3405	Latency: 232	Resp.Time: 232	Errors: 0
+numSecPassedCondexpected:5 <=numSecPassedCond: 4
+Item:[2570, 2570, 10]
+********************baserps=2560  exprps=10  ****************
+Time:100
+Expected op/per/sec: 5120
+Actual   Hit/per/sec: 3496
+Actual   Op/per/sec: 3496
+25th Percentile    : 198.0
+50th Percentile    : 209.0
+75th Percentile    : 236.0
+90th Percentile    : 264.0
+99th Percentile    : 375.03999999999996
+---------------------------------------------------------------
+#102	Threads: 800/800	Samples: 3779	Latency: 221	Resp.Time: 222	Errors: 0
+Time:101
+Expected op/per/sec: 5120
+Actual   Hit/per/sec: 3400
+Actual   Op/per/sec: 3400
+25th Percentile    : 207.0
+50th Percentile    : 225.0
+75th Percentile    : 252.0
+90th Percentile    : 282.0
+99th Percentile    : 346.0
+---------------------------------------------------------------
+#103	Threads: 800/800	Samples: 2898	Latency: 188	Resp.Time: 189	Errors: 0
+Time:102
+Expected op/per/sec: 5120
+Actual   Hit/per/sec: 3782
+Actual   Op/per/sec: 3783
+25th Percentile    : 193.0
+50th Percentile    : 214.0
+75th Percentile    : 230.0
+90th Percentile    : 263.0
+99th Percentile    : 425.1700000000001
+---------------------------------------------------------------
+#104	Threads: 800/800	Samples: 2574	Latency: 186	Resp.Time: 186	Errors: 0
+Number of secs passed the criteria: 1
+Time:103
+Expected op/per/sec: 2570
+Actual   Hit/per/sec: 2570
+Actual   Op/per/sec: 2898
+25th Percentile    : 176.0
+50th Percentile    : 187.0
+75th Percentile    : 193.0
+90th Percentile    : 203.0
+99th Percentile    : 258.02
+---------------------------------------------------------------
+#105	Threads: 800/800	Samples: 2553	Latency: 184	Resp.Time: 184	Errors: 0
+Number of secs passed the criteria: 2
+Time:104
+Expected op/per/sec: 2570
+Actual   Hit/per/sec: 2568
+Actual   Op/per/sec: 2575
+25th Percentile    : 175.0
+50th Percentile    : 186.0
+75th Percentile    : 191.0
+90th Percentile    : 200.0
+99th Percentile    : 230.0
+---------------------------------------------------------------
+#106	Threads: 800/800	Samples: 2579	Latency: 190	Resp.Time: 189	Errors: 0
+Number of secs passed the criteria: 3
+Time:105
+Expected op/per/sec: 2570
+Actual   Hit/per/sec: 2568
+Actual   Op/per/sec: 2554
+25th Percentile    : 175.0
+50th Percentile    : 186.0
+75th Percentile    : 188.0
+90th Percentile    : 199.0
+99th Percentile    : 221.0
+---------------------------------------------------------------
+#107	Threads: 800/800	Samples: 2566	Latency: 187	Resp.Time: 187	Errors: 0
+Number of secs passed the criteria: 4
+Time:106
+Expected op/per/sec: 2570
+Actual   Hit/per/sec: 2568
+Actual   Op/per/sec: 2579
+25th Percentile    : 176.0
+50th Percentile    : 187.0
+75th Percentile    : 195.0
+90th Percentile    : 206.0
+99th Percentile    : 247.21000000000004
+---------------------------------------------------------------
+#108	Threads: 800/800	Samples: 2569	Latency: 187	Resp.Time: 186	Errors: 0
+Number of secs passed the criteria: 5
+Time:107
+Expected op/per/sec: 2570
+Actual   Hit/per/sec: 2568
+Actual   Op/per/sec: 2565
+25th Percentile    : 176.0
+50th Percentile    : 187.0
+75th Percentile    : 191.0
+90th Percentile    : 202.0
+99th Percentile    : 236.0
+---------------------------------------------------------------
+#109	Threads: 800/800	Samples: 2563	Latency: 188	Resp.Time: 187	Errors: 0
+Number of secs passed the criteria: 6
+Time:108
+Expected op/per/sec: 2570
+Actual   Hit/per/sec: 2568
+Actual   Op/per/sec: 2571
+25th Percentile    : 176.0
+50th Percentile    : 187.0
+75th Percentile    : 190.0
+90th Percentile    : 200.0
+99th Percentile    : 244.0
+---------------------------------------------------------------
+#110	Threads: 800/800	Samples: 2579	Latency: 189	Resp.Time: 189	Errors: 0
+Number of secs passed the criteria: 7
+Time:109
+Expected op/per/sec: 2570
+Actual   Hit/per/sec: 2568
+Actual   Op/per/sec: 2565
+25th Percentile    : 176.0
+50th Percentile    : 187.0
+75th Percentile    : 192.0
+90th Percentile    : 203.0
+99th Percentile    : 243.0
+---------------------------------------------------------------
+#111	Threads: 800/800	Samples: 2552	Latency: 186	Resp.Time: 185	Errors: 0
+Number of secs passed the criteria: 8
+numSecPassedCondexpected:5 <=numSecPassedCond: 8
+Item:[2580, 2580, 10]
+Time:110
+Expected op/per/sec: 2570
+Actual   Hit/per/sec: 2568
+Actual   Op/per/sec: 2577
+25th Percentile    : 176.0
+50th Percentile    : 187.0
+75th Percentile    : 196.0
+90th Percentile    : 206.0
+99th Percentile    : 246.0
+---------------------------------------------------------------
+#112	Threads: 800/800	Samples: 2574	Latency: 189	Resp.Time: 188	Errors: 0
+Number of secs passed the criteria: 1
+Time:111
+Expected op/per/sec: 2570
+Actual   Hit/per/sec: 2568
+Actual   Op/per/sec: 2551
+25th Percentile    : 176.0
+50th Percentile    : 187.0
+75th Percentile    : 189.0
+90th Percentile    : 200.0
+99th Percentile    : 216.0
+---------------------------------------------------------------
+#113	Threads: 800/800	Samples: 2565	Latency: 188	Resp.Time: 187	Errors: 0
+Number of secs passed the criteria: 2
+Time:112
+Expected op/per/sec: 2570
+Actual   Hit/per/sec: 2568
+Actual   Op/per/sec: 2573
+25th Percentile    : 176.0
+50th Percentile    : 187.0
+75th Percentile    : 190.0
+90th Percentile    : 201.0
+99th Percentile    : 236.0
+---------------------------------------------------------------
+#114	Threads: 800/800	Samples: 2593	Latency: 189	Resp.Time: 189	Errors: 0
+Number of secs passed the criteria: 3
+Time:113
+Expected op/per/sec: 2580
+Actual   Hit/per/sec: 2578
+Actual   Op/per/sec: 2566
+25th Percentile    : 176.0
+50th Percentile    : 188.0
+75th Percentile    : 193.0
+90th Percentile    : 203.4000000000001
+99th Percentile    : 235.34000000000015
+---------------------------------------------------------------
+#115	Threads: 800/800	Samples: 2563	Latency: 188	Resp.Time: 187	Errors: 0
+Number of secs passed the criteria: 4
+Time:114
+Expected op/per/sec: 2580
+Actual   Hit/per/sec: 2578
+Actual   Op/per/sec: 2593
+25th Percentile    : 177.0
+50th Percentile    : 188.0
+75th Percentile    : 190.0
+90th Percentile    : 201.0
+99th Percentile    : 237.0
+---------------------------------------------------------------
+#116	Threads: 800/800	Samples: 2582	Latency: 187	Resp.Time: 186	Errors: 0
+Number of secs passed the criteria: 5
+Time:115
+Expected op/per/sec: 2580
+Actual   Hit/per/sec: 2578
+Actual   Op/per/sec: 2563
+25th Percentile    : 176.0
+50th Percentile    : 187.0
+75th Percentile    : 191.0
+90th Percentile    : 202.0
+99th Percentile    : 241.3699999999999
+---------------------------------------------------------------
+#117	Threads: 800/800	Samples: 2574	Latency: 187	Resp.Time: 186	Errors: 0
+Number of secs passed the criteria: 6
+Time:116
+Expected op/per/sec: 2580
+Actual   Hit/per/sec: 2578
+Actual   Op/per/sec: 2581
+25th Percentile    : 177.0
+50th Percentile    : 187.0
+75th Percentile    : 191.0
+90th Percentile    : 201.0
+99th Percentile    : 241.0
+---------------------------------------------------------------
+#118	Threads: 800/800	Samples: 2600	Latency: 193	Resp.Time: 192	Errors: 0
+Number of secs passed the criteria: 7
+Time:117
+Expected op/per/sec: 2580
+Actual   Hit/per/sec: 2578
+Actual   Op/per/sec: 2575
+25th Percentile    : 176.0
+50th Percentile    : 187.0
+75th Percentile    : 189.0
+90th Percentile    : 200.0
+99th Percentile    : 224.0
+---------------------------------------------------------------
+#119	Threads: 800/800	Samples: 2562	Latency: 187	Resp.Time: 186	Errors: 0
+Number of secs passed the criteria: 8
+Time:118
+Expected op/per/sec: 2580
+Actual   Hit/per/sec: 2578
+Actual   Op/per/sec: 2599
+25th Percentile    : 177.0
+50th Percentile    : 187.0
+75th Percentile    : 193.0
+90th Percentile    : 204.0
+99th Percentile    : 289.13000000000284
+---------------------------------------------------------------
+Number of secs passed the criteria: 9
+Time:119
+Expected op/per/sec: 2580
+Actual   Hit/per/sec: 2578
+Actual   Op/per/sec: 2562
+25th Percentile    : 176.0
+50th Percentile    : 187.0
+75th Percentile    : 191.0
+90th Percentile    : 201.0
+99th Percentile    : 229.3800000000001
+---------------------------------------------------------------
+#120	Threads: 800/800	Samples: 2525	Latency: 188	Resp.Time: 188	Errors: 0
+Number of secs passed the criteria: 10
+numSecPassedCondexpected:5 <=numSecPassedCond: 10
+Item:[2600, 2600, 10]
+Time:120
+Expected op/per/sec: 2580
+Actual   Hit/per/sec: 2570
+Actual   Op/per/sec: 2525
+25th Percentile    : 177.0
+50th Percentile    : 187.0
+75th Percentile    : 192.0
+90th Percentile    : 201.5
+99th Percentile    : 243.75
+---------------------------------------------------------------
+#121	Threads: 800/800	Samples: 2626	Latency: 190	Resp.Time: 189	Errors: 0
+#122	Threads: 800/800	Samples: 2417	Latency: 212	Resp.Time: 211	Errors: 0
+Number of secs passed the criteria: 1
+Time:121
+Expected op/per/sec: 2580
+Actual   Hit/per/sec: 2578
+Actual   Op/per/sec: 2626
+25th Percentile    : 176.0
+50th Percentile    : 187.0
+75th Percentile    : 194.0
+90th Percentile    : 205.0
+99th Percentile    : 258.0
+---------------------------------------------------------------
+#123	Threads: 800/800	Samples: 2628	Latency: 198	Resp.Time: 197	Errors: 0
+Number of secs passed the criteria: 2
+Time:122
+Expected op/per/sec: 2580
+Actual   Hit/per/sec: 2578
+Actual   Op/per/sec: 2417
+25th Percentile    : 188.0
+50th Percentile    : 205.0
+75th Percentile    : 233.0
+90th Percentile    : 252.0
+99th Percentile    : 303.3199999999997
+---------------------------------------------------------------
+Number of secs passed the criteria: 3
+Time:123
+Expected op/per/sec: 2600
+Actual   Hit/per/sec: 2100
+Actual   Op/per/sec: 2628
+25th Percentile    : 177.0
+50th Percentile    : 188.0
+75th Percentile    : 192.0
+90th Percentile    : 203.0
+99th Percentile    : 807.0
+---------------------------------------------------------------
+#125	Threads: 800/800	Samples: 2596	Latency: 188	Resp.Time: 187	Errors: 0
+Number of secs passed the criteria: 4
+Time:124
+Expected op/per/sec: 2600
+Actual   Hit/per/sec: 2598
+Actual   Op/per/sec: 2234
+25th Percentile    : 187.0
+50th Percentile    : 202.0
+75th Percentile    : 257.0
+90th Percentile    : 289.5999999999999
+99th Percentile    : 331.0
+---------------------------------------------------------------
+#126	Threads: 800/800	Samples: 2582	Latency: 191	Resp.Time: 191	Errors: 0
+Number of secs passed the criteria: 5
+Time:125
+Expected op/per/sec: 2600
+Actual   Hit/per/sec: 2598
+Actual   Op/per/sec: 2595
+25th Percentile    : 176.0
+50th Percentile    : 187.0
+75th Percentile    : 191.0
+90th Percentile    : 201.0
+99th Percentile    : 239.05000000000018
+---------------------------------------------------------------
+#127	Threads: 800/800	Samples: 2617	Latency: 188	Resp.Time: 187	Errors: 0
+Number of secs passed the criteria: 6
+Time:126
+Expected op/per/sec: 2600
+Actual   Hit/per/sec: 2598
+Actual   Op/per/sec: 2585
+25th Percentile    : 176.0
+50th Percentile    : 187.0
+75th Percentile    : 197.0
+90th Percentile    : 214.0
+99th Percentile    : 283.1500000000001
+---------------------------------------------------------------
+#128	Threads: 800/800	Samples: 2593	Latency: 188	Resp.Time: 188	Errors: 0
+Number of secs passed the criteria: 7
+Time:127
+Expected op/per/sec: 2600
+Actual   Hit/per/sec: 2598
+Actual   Op/per/sec: 2616
+25th Percentile    : 176.0
+50th Percentile    : 187.0
+75th Percentile    : 191.0
+90th Percentile    : 202.0
+99th Percentile    : 237.0
+---------------------------------------------------------------
+#129	Threads: 800/800	Samples: 2597	Latency: 185	Resp.Time: 184	Errors: 0
+Number of secs passed the criteria: 8
+Time:128
+Expected op/per/sec: 2600
+Actual   Hit/per/sec: 2598
+Actual   Op/per/sec: 2590
+25th Percentile    : 176.0
+50th Percentile    : 187.0
+75th Percentile    : 192.0
+90th Percentile    : 203.0
+99th Percentile    : 245.0
+---------------------------------------------------------------
+#130	Threads: 800/800	Samples: 2602	Latency: 185	Resp.Time: 185	Errors: 0
+Number of secs passed the criteria: 9
+Time:129
+Expected op/per/sec: 2600
+Actual   Hit/per/sec: 2598
+Actual   Op/per/sec: 2598
+25th Percentile    : 175.0
+50th Percentile    : 187.0
+75th Percentile    : 188.0
+90th Percentile    : 200.0
+99th Percentile    : 216.0
+---------------------------------------------------------------
+#131	Threads: 800/800	Samples: 2596	Latency: 183	Resp.Time: 183	Errors: 0
+Number of secs passed the criteria: 10
+numSecPassedCondexpected:5 <=numSecPassedCond: 10
+Item:[2640, 2640, 10]
+Time:130
+Expected op/per/sec: 2600
+Actual   Hit/per/sec: 2595
+Actual   Op/per/sec: 2599
+25th Percentile    : 175.0
+50th Percentile    : 186.0
+75th Percentile    : 188.0
+90th Percentile    : 199.0
+99th Percentile    : 220.01000000000022
+---------------------------------------------------------------
+#132	Threads: 800/800	Samples: 2605	Latency: 183	Resp.Time: 184	Errors: 0
+Number of secs passed the criteria: 1
+Time:131
+Expected op/per/sec: 2600
+Actual   Hit/per/sec: 2601
+Actual   Op/per/sec: 2598
+25th Percentile    : 174.0
+50th Percentile    : 186.0
+75th Percentile    : 187.0
+90th Percentile    : 198.0
+99th Percentile    : 213.0
+---------------------------------------------------------------
+#133	Threads: 800/800	Samples: 2625	Latency: 185	Resp.Time: 185	Errors: 0
+Number of secs passed the criteria: 2
+Time:132
+Expected op/per/sec: 2600
+Actual   Hit/per/sec: 2598
+Actual   Op/per/sec: 2604
+25th Percentile    : 174.0
+50th Percentile    : 186.0
+75th Percentile    : 187.0
+90th Percentile    : 198.0
+99th Percentile    : 204.0
+---------------------------------------------------------------
+#134	Threads: 800/800	Samples: 2645	Latency: 184	Resp.Time: 184	Errors: 0
+Number of secs passed the criteria: 3
+Time:133
+Expected op/per/sec: 2640
+Actual   Hit/per/sec: 2638
+Actual   Op/per/sec: 2625
+25th Percentile    : 174.0
+50th Percentile    : 186.0
+75th Percentile    : 188.0
+90th Percentile    : 199.0
+99th Percentile    : 218.0
+---------------------------------------------------------------
+#135	Threads: 800/800	Samples: 2635	Latency: 183	Resp.Time: 184	Errors: 0
+Number of secs passed the criteria: 4
+Time:134
+Expected op/per/sec: 2640
+Actual   Hit/per/sec: 2638
+Actual   Op/per/sec: 2645
+25th Percentile    : 174.0
+50th Percentile    : 186.0
+75th Percentile    : 187.0
+90th Percentile    : 198.5
+99th Percentile    : 222.0
+---------------------------------------------------------------
+#136	Threads: 800/800	Samples: 2637	Latency: 183	Resp.Time: 183	Errors: 0
+Number of secs passed the criteria: 5
+Time:135
+Expected op/per/sec: 2640
+Actual   Hit/per/sec: 2638
+Actual   Op/per/sec: 2636
+25th Percentile    : 174.0
+50th Percentile    : 186.0
+75th Percentile    : 187.0
+90th Percentile    : 199.0
+99th Percentile    : 218.0
+---------------------------------------------------------------
+#137	Threads: 800/800	Samples: 2634	Latency: 184	Resp.Time: 184	Errors: 0
+Number of secs passed the criteria: 6
+Time:136
+Expected op/per/sec: 2640
+Actual   Hit/per/sec: 2638
+Actual   Op/per/sec: 2636
+25th Percentile    : 174.0
+50th Percentile    : 186.0
+75th Percentile    : 187.0
+90th Percentile    : 198.0
+99th Percentile    : 203.0
+---------------------------------------------------------------
+#138	Threads: 800/800	Samples: 2641	Latency: 184	Resp.Time: 184	Errors: 0
+Number of secs passed the criteria: 7
+Time:137
+Expected op/per/sec: 2640
+Actual   Hit/per/sec: 2638
+Actual   Op/per/sec: 2635
+25th Percentile    : 174.0
+50th Percentile    : 186.0
+75th Percentile    : 187.0
+90th Percentile    : 198.0
+99th Percentile    : 214.6500000000001
+---------------------------------------------------------------
+#139	Threads: 800/800	Samples: 2643	Latency: 183	Resp.Time: 183	Errors: 0
+Number of secs passed the criteria: 8
+Time:138
+Expected op/per/sec: 2640
+Actual   Hit/per/sec: 2638
+Actual   Op/per/sec: 2640
+25th Percentile    : 174.0
+50th Percentile    : 186.0
+75th Percentile    : 187.0
+90th Percentile    : 198.0
+99th Percentile    : 217.0
+---------------------------------------------------------------
+Number of secs passed the criteria: 9
+Time:139
+Expected op/per/sec: 2640
+Actual   Hit/per/sec: 2638
+Actual   Op/per/sec: 2644
+25th Percentile    : 174.0
+50th Percentile    : 186.0
+75th Percentile    : 187.0
+90th Percentile    : 198.0
+99th Percentile    : 209.0
+---------------------------------------------------------------
+#140	Threads: 800/800	Samples: 2636	Latency: 183	Resp.Time: 183	Errors: 0
+#141	Threads: 800/800	Samples: 2632	Latency: 186	Resp.Time: 186	Errors: 0
+Number of secs passed the criteria: 10
+numSecPassedCondexpected:5 <=numSecPassedCond: 10
+Item:[2720, 2720, 10]
+Time:140
+Expected op/per/sec: 2640
+Actual   Hit/per/sec: 2638
+Actual   Op/per/sec: 2634
+25th Percentile    : 174.0
+50th Percentile    : 186.0
+75th Percentile    : 187.0
+90th Percentile    : 198.0
+99th Percentile    : 214.0
+---------------------------------------------------------------
+#142	Threads: 800/800	Samples: 2648	Latency: 184	Resp.Time: 184	Errors: 0
+Number of secs passed the criteria: 1
+Time:141
+Expected op/per/sec: 2640
+Actual   Hit/per/sec: 2638
+Actual   Op/per/sec: 2634
+25th Percentile    : 174.0
+50th Percentile    : 186.0
+75th Percentile    : 188.0
+90th Percentile    : 199.0
+99th Percentile    : 250.0
+---------------------------------------------------------------
+#143	Threads: 800/800	Samples: 2695	Latency: 183	Resp.Time: 184	Errors: 0
+Number of secs passed the criteria: 2
+Time:142
+Expected op/per/sec: 2640
+Actual   Hit/per/sec: 2638
+Actual   Op/per/sec: 2646
+25th Percentile    : 174.0
+50th Percentile    : 186.0
+75th Percentile    : 187.0
+90th Percentile    : 198.0
+99th Percentile    : 218.0
+---------------------------------------------------------------
+#144	Threads: 800/800	Samples: 2718	Latency: 185	Resp.Time: 185	Errors: 0
+Number of secs passed the criteria: 3
+Time:143
+Expected op/per/sec: 2720
+Actual   Hit/per/sec: 2718
+Actual   Op/per/sec: 2694
+25th Percentile    : 174.0
+50th Percentile    : 186.0
+75th Percentile    : 187.0
+90th Percentile    : 198.5999999999999
+99th Percentile    : 208.0
+---------------------------------------------------------------
+#145	Threads: 800/800	Samples: 2727	Latency: 184	Resp.Time: 184	Errors: 0
+Number of secs passed the criteria: 4
+Time:144
+Expected op/per/sec: 2720
+Actual   Hit/per/sec: 2718
+Actual   Op/per/sec: 2721
+25th Percentile    : 174.0
+50th Percentile    : 186.0
+75th Percentile    : 187.0
+90th Percentile    : 199.0
+99th Percentile    : 220.0
+---------------------------------------------------------------
+Number of secs passed the criteria: 5
+Time:145
+Expected op/per/sec: 2720
+Actual   Hit/per/sec: 2718
+Actual   Op/per/sec: 2722
+25th Percentile    : 174.0
+50th Percentile    : 186.0
+75th Percentile    : 187.0
+90th Percentile    : 199.0
+99th Percentile    : 222.7800000000002
+---------------------------------------------------------------
+#146	Threads: 800/800	Samples: 2711	Latency: 186	Resp.Time: 186	Errors: 0
+#147	Threads: 800/800	Samples: 2723	Latency: 183	Resp.Time: 183	Errors: 0
+Number of secs passed the criteria: 6
+Time:146
+Expected op/per/sec: 2720
+Actual   Hit/per/sec: 2718
+Actual   Op/per/sec: 2716
+25th Percentile    : 174.0
+50th Percentile    : 186.0
+75th Percentile    : 188.0
+90th Percentile    : 199.0
+99th Percentile    : 237.0
+---------------------------------------------------------------
+#148	Threads: 800/800	Samples: 2720	Latency: 184	Resp.Time: 184	Errors: 0
+Number of secs passed the criteria: 7
+Time:147
+Expected op/per/sec: 2720
+Actual   Hit/per/sec: 2715
+Actual   Op/per/sec: 2721
+25th Percentile    : 174.0
+50th Percentile    : 186.0
+75th Percentile    : 187.0
+90th Percentile    : 198.0
+99th Percentile    : 207.57999999999993
+---------------------------------------------------------------
+#149	Threads: 800/800	Samples: 2709	Latency: 184	Resp.Time: 185	Errors: 0
+Number of secs passed the criteria: 8
+Time:148
+Expected op/per/sec: 2720
+Actual   Hit/per/sec: 2721
+Actual   Op/per/sec: 2721
+25th Percentile    : 174.0
+50th Percentile    : 186.0
+75th Percentile    : 187.0
+90th Percentile    : 199.0
+99th Percentile    : 226.0
+---------------------------------------------------------------
+#150	Threads: 800/800	Samples: 2719	Latency: 183	Resp.Time: 184	Errors: 0
+Number of secs passed the criteria: 9
+Time:149
+Expected op/per/sec: 2720
+Actual   Hit/per/sec: 2715
+Actual   Op/per/sec: 2709
+25th Percentile    : 174.0
+50th Percentile    : 186.0
+75th Percentile    : 187.0
+90th Percentile    : 199.0
+99th Percentile    : 236.0
+---------------------------------------------------------------
+#151	Threads: 800/800	Samples: 2655	Latency: 183	Resp.Time: 183	Errors: 0
+Number of secs passed the criteria: 10
+numSecPassedCondexpected:5 <=numSecPassedCond: 10
+Item:[2880, 2880, 10]
+Time:150
+Expected op/per/sec: 2720
+Actual   Hit/per/sec: 2721
+Actual   Op/per/sec: 2718
+25th Percentile    : 174.0
+50th Percentile    : 186.0
+75th Percentile    : 187.0
+90th Percentile    : 198.0
+99th Percentile    : 216.82000000000016
+---------------------------------------------------------------
+#152	Threads: 800/800	Samples: 2779	Latency: 185	Resp.Time: 185	Errors: 0
+Number of secs passed the criteria: 1
+Time:151
+Expected op/per/sec: 2720
+Actual   Hit/per/sec: 2718
+Actual   Op/per/sec: 2656
+25th Percentile    : 174.0
+50th Percentile    : 186.0
+75th Percentile    : 187.0
+90th Percentile    : 198.0
+99th Percentile    : 212.44000000000005
+---------------------------------------------------------------
+Number of secs passed the criteria: 2
+Time:152
+Expected op/per/sec: 2720
+Actual   Hit/per/sec: 2718
+Actual   Op/per/sec: 2779
+25th Percentile    : 174.0
+50th Percentile    : 186.0
+75th Percentile    : 187.0
+90th Percentile    : 199.0
+99th Percentile    : 226.0
+---------------------------------------------------------------
+#153	Threads: 800/800	Samples: 2769	Latency: 184	Resp.Time: 185	Errors: 0
+#154	Threads: 800/800	Samples: 2342	Latency: 193	Resp.Time: 193	Errors: 0
+Number of secs passed the criteria: 3
+Time:153
+Expected op/per/sec: 2880
+Actual   Hit/per/sec: 2268
+Actual   Op/per/sec: 2770
+25th Percentile    : 174.0
+50th Percentile    : 186.0
+75th Percentile    : 187.0
+90th Percentile    : 199.0
+99th Percentile    : 221.0
+---------------------------------------------------------------
+Number of secs passed the criteria: 4
+Time:154
+Expected op/per/sec: 2880
+Actual   Hit/per/sec: 2875
+Actual   Op/per/sec: 2340
+25th Percentile    : 176.0
+50th Percentile    : 187.0
+75th Percentile    : 199.0
+90th Percentile    : 220.0
+99th Percentile    : 271.19999999999936
+---------------------------------------------------------------
+#155	Threads: 800/800	Samples: 2855	Latency: 185	Resp.Time: 185	Errors: 0
+#156	Threads: 800/800	Samples: 2910	Latency: 184	Resp.Time: 184	Errors: 0
+Number of secs passed the criteria: 5
+Time:155
+Expected op/per/sec: 2880
+Actual   Hit/per/sec: 2875
+Actual   Op/per/sec: 2856
+25th Percentile    : 174.0
+50th Percentile    : 186.0
+75th Percentile    : 187.0
+90th Percentile    : 199.0
+99th Percentile    : 215.0
+---------------------------------------------------------------
+#157	Threads: 800/800	Samples: 2879	Latency: 185	Resp.Time: 186	Errors: 0
+Number of secs passed the criteria: 6
+Time:156
+Expected op/per/sec: 2880
+Actual   Hit/per/sec: 2884
+Actual   Op/per/sec: 2911
+25th Percentile    : 174.0
+50th Percentile    : 186.0
+75th Percentile    : 187.0
+90th Percentile    : 199.0
+99th Percentile    : 224.0
+---------------------------------------------------------------
+#158	Threads: 800/800	Samples: 2876	Latency: 183	Resp.Time: 184	Errors: 0
+Number of secs passed the criteria: 7
+Time:157
+Expected op/per/sec: 2880
+Actual   Hit/per/sec: 2878
+Actual   Op/per/sec: 2879
+25th Percentile    : 174.0
+50th Percentile    : 186.0
+75th Percentile    : 187.0
+90th Percentile    : 199.0
+99th Percentile    : 234.42000000000007
+---------------------------------------------------------------
+#159	Threads: 800/800	Samples: 2874	Latency: 184	Resp.Time: 185	Errors: 0
+Number of secs passed the criteria: 8
+Time:158
+Expected op/per/sec: 2880
+Actual   Hit/per/sec: 2878
+Actual   Op/per/sec: 2875
+25th Percentile    : 174.0
+50th Percentile    : 186.0
+75th Percentile    : 187.0
+90th Percentile    : 198.0
+99th Percentile    : 215.25
+---------------------------------------------------------------
+#160	Threads: 800/800	Samples: 2884	Latency: 184	Resp.Time: 184	Errors: 0
+Number of secs passed the criteria: 9
+Time:159
+Expected op/per/sec: 2880
+Actual   Hit/per/sec: 2878
+Actual   Op/per/sec: 2874
+25th Percentile    : 175.0
+50th Percentile    : 186.0
+75th Percentile    : 188.0
+90th Percentile    : 199.0
+99th Percentile    : 219.0
+---------------------------------------------------------------
+#161	Threads: 800/800	Samples: 2875	Latency: 184	Resp.Time: 185	Errors: 0
+Number of secs passed the criteria: 10
+numSecPassedCondexpected:5 <=numSecPassedCond: 10
+Item:[3200, 3200, 10]
+Time:160
+Expected op/per/sec: 2880
+Actual   Hit/per/sec: 2875
+Actual   Op/per/sec: 2884
+25th Percentile    : 174.0
+50th Percentile    : 186.0
+75th Percentile    : 187.0
+90th Percentile    : 199.0
+99th Percentile    : 219.15999999999985
+---------------------------------------------------------------
+#162	Threads: 800/800	Samples: 2878	Latency: 185	Resp.Time: 185	Errors: 0
+Number of secs passed the criteria: 1
+Time:161
+Expected op/per/sec: 2880
+Actual   Hit/per/sec: 2875
+Actual   Op/per/sec: 2876
+25th Percentile    : 174.0
+50th Percentile    : 186.0
+75th Percentile    : 187.0
+90th Percentile    : 199.0
+99th Percentile    : 226.0
+---------------------------------------------------------------
+#163	Threads: 800/800	Samples: 3135	Latency: 184	Resp.Time: 184	Errors: 0
+Number of secs passed the criteria: 2
+Time:162
+Expected op/per/sec: 2880
+Actual   Hit/per/sec: 2878
+Actual   Op/per/sec: 2876
+25th Percentile    : 174.0
+50th Percentile    : 186.0
+75th Percentile    : 187.0
+90th Percentile    : 199.0
+99th Percentile    : 223.23999999999978
+---------------------------------------------------------------
+#164	Threads: 800/800	Samples: 3193	Latency: 185	Resp.Time: 185	Errors: 0
+Number of secs passed the criteria: 3
+Time:163
+Expected op/per/sec: 3200
+Actual   Hit/per/sec: 3197
+Actual   Op/per/sec: 3137
+25th Percentile    : 174.0
+50th Percentile    : 186.0
+75th Percentile    : 187.0
+90th Percentile    : 199.0
+99th Percentile    : 218.6300000000001
+---------------------------------------------------------------
+#165	Threads: 800/800	Samples: 3197	Latency: 185	Resp.Time: 186	Errors: 0
+Number of secs passed the criteria: 4
+Time:164
+Expected op/per/sec: 3200
+Actual   Hit/per/sec: 3197
+Actual   Op/per/sec: 3193
+25th Percentile    : 174.0
+50th Percentile    : 186.0
+75th Percentile    : 188.0
+90th Percentile    : 199.0
+99th Percentile    : 226.0
+---------------------------------------------------------------
+#166	Threads: 800/800	Samples: 3202	Latency: 185	Resp.Time: 186	Errors: 0
+Number of secs passed the criteria: 5
+Time:165
+Expected op/per/sec: 3200
+Actual   Hit/per/sec: 3194
+Actual   Op/per/sec: 3196
+25th Percentile    : 174.0
+50th Percentile    : 186.0
+75th Percentile    : 188.0
+90th Percentile    : 199.0
+99th Percentile    : 252.03999999999996
+---------------------------------------------------------------
+#167	Threads: 800/800	Samples: 3203	Latency: 185	Resp.Time: 185	Errors: 0
+Number of secs passed the criteria: 6
+Time:166
+Expected op/per/sec: 3200
+Actual   Hit/per/sec: 3200
+Actual   Op/per/sec: 3202
+25th Percentile    : 175.0
+50th Percentile    : 186.0
+75th Percentile    : 189.0
+90th Percentile    : 199.0
+99th Percentile    : 226.0
+---------------------------------------------------------------
+#168	Threads: 800/800	Samples: 3192	Latency: 186	Resp.Time: 186	Errors: 0
+Number of secs passed the criteria: 7
+Time:167
+Expected op/per/sec: 3200
+Actual   Hit/per/sec: 3197
+Actual   Op/per/sec: 3202
+25th Percentile    : 174.0
+50th Percentile    : 186.0
+75th Percentile    : 188.0
+90th Percentile    : 199.0
+99th Percentile    : 233.0
+---------------------------------------------------------------
+#169	Threads: 800/800	Samples: 3189	Latency: 184	Resp.Time: 184	Errors: 0
+Number of secs passed the criteria: 8
+Time:168
+Expected op/per/sec: 3200
+Actual   Hit/per/sec: 3197
+Actual   Op/per/sec: 3193
+25th Percentile    : 174.0
+50th Percentile    : 186.0
+75th Percentile    : 188.0
+90th Percentile    : 200.0
+99th Percentile    : 242.0
+---------------------------------------------------------------
+#170	Threads: 800/800	Samples: 3203	Latency: 187	Resp.Time: 187	Errors: 0
+Number of secs passed the criteria: 9
+Time:169
+Expected op/per/sec: 3200
+Actual   Hit/per/sec: 3194
+Actual   Op/per/sec: 3189
+25th Percentile    : 174.0
+50th Percentile    : 186.0
+75th Percentile    : 187.0
+90th Percentile    : 199.0
+99th Percentile    : 218.0
+---------------------------------------------------------------
+#171	Threads: 800/800	Samples: 3188	Latency: 184	Resp.Time: 185	Errors: 0
+Number of secs passed the criteria: 10
+numSecPassedCondexpected:5 <=numSecPassedCond: 10
+Item:[3840, 3840, 10]
+Time:170
+Expected op/per/sec: 3200
+Actual   Hit/per/sec: 3200
+Actual   Op/per/sec: 3204
+25th Percentile    : 174.0
+50th Percentile    : 186.0
+75th Percentile    : 188.0
+90th Percentile    : 199.0
+99th Percentile    : 228.96000000000004
+---------------------------------------------------------------
+#172	Threads: 800/800	Samples: 3204	Latency: 184	Resp.Time: 185	Errors: 0
+Number of secs passed the criteria: 1
+Time:171
+Expected op/per/sec: 3200
+Actual   Hit/per/sec: 3197
+Actual   Op/per/sec: 3186
+25th Percentile    : 174.0
+50th Percentile    : 186.0
+75th Percentile    : 188.0
+90th Percentile    : 199.0
+99th Percentile    : 222.0
+---------------------------------------------------------------
+#173	Threads: 800/800	Samples: 3672	Latency: 189	Resp.Time: 189	Errors: 0
+Number of secs passed the criteria: 2
+Time:172
+Expected op/per/sec: 3200
+Actual   Hit/per/sec: 3197
+Actual   Op/per/sec: 3206
+25th Percentile    : 175.0
+50th Percentile    : 186.0
+75th Percentile    : 188.0
+90th Percentile    : 199.0
+99th Percentile    : 224.0
+---------------------------------------------------------------
+#174	Threads: 800/800	Samples: 3888	Latency: 189	Resp.Time: 190	Errors: 0
+Number of secs passed the criteria: 3
+Time:173
+Expected op/per/sec: 3840
+Actual   Hit/per/sec: 3837
+Actual   Op/per/sec: 3670
+25th Percentile    : 176.0
+50th Percentile    : 187.0
+75th Percentile    : 197.0
+90th Percentile    : 206.0
+99th Percentile    : 246.30000000000018
+---------------------------------------------------------------
+#175	Threads: 800/800	Samples: 3826	Latency: 188	Resp.Time: 188	Errors: 0
+Number of secs passed the criteria: 4
+Time:174
+Expected op/per/sec: 3840
+Actual   Hit/per/sec: 3837
+Actual   Op/per/sec: 3889
+25th Percentile    : 176.0
+50th Percentile    : 187.0
+75th Percentile    : 197.0
+90th Percentile    : 207.0
+99th Percentile    : 246.0
+---------------------------------------------------------------
+#176	Threads: 800/800	Samples: 3847	Latency: 188	Resp.Time: 187	Errors: 0
+Number of secs passed the criteria: 5
+Time:175
+Expected op/per/sec: 3840
+Actual   Hit/per/sec: 3837
+Actual   Op/per/sec: 3829
+25th Percentile    : 176.0
+50th Percentile    : 187.0
+75th Percentile    : 192.0
+90th Percentile    : 202.0
+99th Percentile    : 244.0
+---------------------------------------------------------------
+#177	Threads: 800/800	Samples: 3832	Latency: 188	Resp.Time: 188	Errors: 0
+Number of secs passed the criteria: 6
+Time:176
+Expected op/per/sec: 3840
+Actual   Hit/per/sec: 3837
+Actual   Op/per/sec: 3846
+25th Percentile    : 176.0
+50th Percentile    : 188.0
+75th Percentile    : 192.0
+90th Percentile    : 202.0
+99th Percentile    : 237.0
+---------------------------------------------------------------
+#178	Threads: 800/800	Samples: 3833	Latency: 189	Resp.Time: 189	Errors: 0
+Number of secs passed the criteria: 7
+Time:177
+Expected op/per/sec: 3840
+Actual   Hit/per/sec: 3837
+Actual   Op/per/sec: 3833
+25th Percentile    : 176.0
+50th Percentile    : 188.0
+75th Percentile    : 193.0
+90th Percentile    : 203.0
+99th Percentile    : 237.34000000000015
+---------------------------------------------------------------
+#179	Threads: 800/800	Samples: 3836	Latency: 193	Resp.Time: 193	Errors: 0
+Number of secs passed the criteria: 8
+Time:178
+Expected op/per/sec: 3840
+Actual   Hit/per/sec: 3837
+Actual   Op/per/sec: 3834
+25th Percentile    : 176.0
+50th Percentile    : 188.0
+75th Percentile    : 195.0
+90th Percentile    : 204.0
+99th Percentile    : 242.0
+---------------------------------------------------------------
+#180	Threads: 800/800	Samples: 3839	Latency: 188	Resp.Time: 187	Errors: 0
+Number of secs passed the criteria: 9
+Time:179
+Expected op/per/sec: 3840
+Actual   Hit/per/sec: 3837
+Actual   Op/per/sec: 3839
+25th Percentile    : 180.0
+50th Percentile    : 188.0
+75th Percentile    : 200.0
+90th Percentile    : 216.0
+99th Percentile    : 257.6100000000001
+---------------------------------------------------------------
+#181	Threads: 800/800	Samples: 3846	Latency: 189	Resp.Time: 189	Errors: 0
+Number of secs passed the criteria: 10
+numSecPassedCondexpected:5 <=numSecPassedCond: 10
+Item:[5120, 5120, 10]
+Time:180
+Expected op/per/sec: 3840
+Actual   Hit/per/sec: 3837
+Actual   Op/per/sec: 3834
+25th Percentile    : 176.0
+50th Percentile    : 187.0
+75th Percentile    : 191.0
+90th Percentile    : 201.0
+99th Percentile    : 239.65999999999985
+---------------------------------------------------------------
+#182	Threads: 800/800	Samples: 3841	Latency: 187	Resp.Time: 186	Errors: 0
+Number of secs passed the criteria: 1
+Time:181
+Expected op/per/sec: 3840
+Actual   Hit/per/sec: 3837
+Actual   Op/per/sec: 3849
+25th Percentile    : 177.0
+50th Percentile    : 188.0
+75th Percentile    : 194.0
+90th Percentile    : 205.0
+99th Percentile    : 245.51000000000022
+---------------------------------------------------------------
+#183	Threads: 800/800	Samples: 4141	Latency: 190	Resp.Time: 190	Errors: 0
+Number of secs passed the criteria: 2
+Time:182
+Expected op/per/sec: 3840
+Actual   Hit/per/sec: 3837
+Actual   Op/per/sec: 3840
+25th Percentile    : 176.0
+50th Percentile    : 187.0
+75th Percentile    : 191.0
+90th Percentile    : 201.0
+99th Percentile    : 228.5999999999999
+---------------------------------------------------------------
+#184	Threads: 800/800	Samples: 4138	Latency: 192	Resp.Time: 191	Errors: 0
+Number of secs passed the criteria: 3
+Time:183
+Expected op/per/sec: 5120
+Actual   Hit/per/sec: 4244
+Actual   Op/per/sec: 4142
+25th Percentile    : 179.0
+50th Percentile    : 188.0
+75th Percentile    : 196.0
+90th Percentile    : 207.0
+99th Percentile    : 249.0
+---------------------------------------------------------------
+#185	Threads: 800/800	Samples: 4236	Latency: 189	Resp.Time: 189	Errors: 0
+Number of secs passed the criteria: 4
+Time:184
+Expected op/per/sec: 5120
+Actual   Hit/per/sec: 4138
+Actual   Op/per/sec: 4138
+25th Percentile    : 182.0
+50th Percentile    : 190.0
+75th Percentile    : 199.0
+90th Percentile    : 207.0
+99th Percentile    : 238.0
+---------------------------------------------------------------
+#186	Threads: 800/800	Samples: 4112	Latency: 194	Resp.Time: 193	Errors: 0
+Number of secs passed the criteria: 5
+Time:185
+Expected op/per/sec: 5120
+Actual   Hit/per/sec: 4235
+Actual   Op/per/sec: 4238
+25th Percentile    : 180.0
+50th Percentile    : 188.0
+75th Percentile    : 193.0
+90th Percentile    : 202.0
+99th Percentile    : 237.0
+---------------------------------------------------------------
+#187	Threads: 800/800	Samples: 4055	Latency: 197	Resp.Time: 196	Errors: 0
+Number of secs passed the criteria: 6
+Time:186
+Expected op/per/sec: 5120
+Actual   Hit/per/sec: 4113
+Actual   Op/per/sec: 4106
+25th Percentile    : 183.0
+50th Percentile    : 189.0
+75th Percentile    : 200.0
+90th Percentile    : 213.0
+99th Percentile    : 251.0
+---------------------------------------------------------------
+#188	Threads: 800/800	Samples: 3745	Latency: 191	Resp.Time: 190	Errors: 0
+Time:187
+Expected op/per/sec: 5120
+Actual   Hit/per/sec: 4055
+Actual   Op/per/sec: 4058
+25th Percentile    : 184.0
+50th Percentile    : 192.0
+75th Percentile    : 203.0
+90th Percentile    : 221.0
+99th Percentile    : 286.0
+---------------------------------------------------------------
+#189	Threads: 800/800	Samples: 2481	Latency: 214	Resp.Time: 213	Errors: 0
+Time:188
+Expected op/per/sec: 5120
+Actual   Hit/per/sec: 2946
+Actual   Op/per/sec: 3742
+25th Percentile    : 181.0
+50th Percentile    : 188.0
+75th Percentile    : 195.0
+90th Percentile    : 205.0
+99th Percentile    : 249.57999999999993
+---------------------------------------------------------------
+#190	Threads: 800/800	Samples: 4134	Latency: 194	Resp.Time: 193	Errors: 0
+Time:189
+Expected op/per/sec: 5120
+Actual   Hit/per/sec: 3278
+Actual   Op/per/sec: 2485
+25th Percentile    : 188.0
+50th Percentile    : 202.0
+75th Percentile    : 225.0
+90th Percentile    : 287.0
+99th Percentile    : 317.0
+---------------------------------------------------------------
+#191	Threads: 800/800	Samples: 4147	Latency: 192	Resp.Time: 191	Errors: 0
+Number of secs passed the criteria: 7
+numSecPassedCondexpected:5 <=numSecPassedCond: 7
+Item:[7680, 7680, 10]
+Time:190
+Expected op/per/sec: 5120
+Actual   Hit/per/sec: 4136
+Actual   Op/per/sec: 4132
+25th Percentile    : 182.0
+50th Percentile    : 190.0
+75th Percentile    : 200.0
+90th Percentile    : 216.0
+99th Percentile    : 252.0
+---------------------------------------------------------------
+#192	Threads: 800/800	Samples: 4223	Latency: 192	Resp.Time: 191	Errors: 0
+Number of secs passed the criteria: 1
+Time:191
+Expected op/per/sec: 5120
+Actual   Hit/per/sec: 4147
+Actual   Op/per/sec: 4147
+25th Percentile    : 181.0
+50th Percentile    : 189.0
+75th Percentile    : 198.0
+90th Percentile    : 208.0
+99th Percentile    : 251.52999999999975
+---------------------------------------------------------------
+#193	Threads: 800/800	Samples: 4171	Latency: 190	Resp.Time: 189	Errors: 0
+Number of secs passed the criteria: 2
+Time:192
+Expected op/per/sec: 5120
+Actual   Hit/per/sec: 4223
+Actual   Op/per/sec: 4222
+25th Percentile    : 183.0
+50th Percentile    : 189.0
+75th Percentile    : 198.0
+90th Percentile    : 207.0
+99th Percentile    : 236.0
+---------------------------------------------------------------
+#194	Threads: 800/800	Samples: 4164	Latency: 193	Resp.Time: 192	Errors: 0
+Time:193
+Expected op/per/sec: 7680
+Actual   Hit/per/sec: 4171
+Actual   Op/per/sec: 4173
+25th Percentile    : 180.0
+50th Percentile    : 188.0
+75th Percentile    : 194.0
+90th Percentile    : 204.0
+99th Percentile    : 241.0
+---------------------------------------------------------------
+#195	Threads: 800/800	Samples: 4092	Latency: 194	Resp.Time: 194	Errors: 0
+Time:194
+Expected op/per/sec: 7680
+Actual   Hit/per/sec: 4164
+Actual   Op/per/sec: 4165
+25th Percentile    : 185.0
+50th Percentile    : 190.0
+75th Percentile    : 199.0
+90th Percentile    : 207.0
+99th Percentile    : 254.35000000000036
+---------------------------------------------------------------
+#196	Threads: 800/800	Samples: 4154	Latency: 191	Resp.Time: 191	Errors: 0
+Time:195
+Expected op/per/sec: 7680
+Actual   Hit/per/sec: 4092
+Actual   Op/per/sec: 4088
+25th Percentile    : 186.0
+50th Percentile    : 191.0
+75th Percentile    : 200.0
+90th Percentile    : 211.0
+99th Percentile    : 253.0
+---------------------------------------------------------------
+#197	Threads: 800/800	Samples: 4176	Latency: 193	Resp.Time: 193	Errors: 0
+Time:196
+Expected op/per/sec: 7680
+Actual   Hit/per/sec: 4150
+Actual   Op/per/sec: 4150
+25th Percentile    : 182.0
+50th Percentile    : 188.0
+75th Percentile    : 195.0
+90th Percentile    : 206.0
+99th Percentile    : 237.0
+---------------------------------------------------------------
+#198	Threads: 800/800	Samples: 4125	Latency: 191	Resp.Time: 191	Errors: 0
+Time:197
+Expected op/per/sec: 7680
+Actual   Hit/per/sec: 4179
+Actual   Op/per/sec: 4179
+25th Percentile    : 182.0
+50th Percentile    : 189.0
+75th Percentile    : 198.0
+90th Percentile    : 208.0
+99th Percentile    : 266.21000000000004
+---------------------------------------------------------------
+#199	Threads: 800/800	Samples: 4223	Latency: 193	Resp.Time: 193	Errors: 0
+Time:198
+Expected op/per/sec: 7680
+Actual   Hit/per/sec: 4126
+Actual   Op/per/sec: 4126
+25th Percentile    : 182.5
+50th Percentile    : 188.0
+75th Percentile    : 195.0
+90th Percentile    : 206.0
+99th Percentile    : 259.0
+---------------------------------------------------------------
+#200	Threads: 800/800	Samples: 4052	Latency: 192	Resp.Time: 192	Errors: 0
+Time:199
+Expected op/per/sec: 7680
+Actual   Hit/per/sec: 4222
+Actual   Op/per/sec: 4222
+25th Percentile    : 184.0
+50th Percentile    : 189.0
+75th Percentile    : 197.5
+90th Percentile    : 208.0
+99th Percentile    : 250.77999999999975
+---------------------------------------------------------------
+#201	Threads: 800/800	Samples: 4183	Latency: 191	Resp.Time: 191	Errors: 0
+numSecPassedCondexpected:5 <=numSecPassedCond: 2
+Item:[7680, 7680, 10]
+Time:200
+Expected op/per/sec: 7680
+Actual   Hit/per/sec: 4053
+Actual   Op/per/sec: 4053
+25th Percentile    : 182.0
+50th Percentile    : 188.0
+75th Percentile    : 197.0
+90th Percentile    : 207.69999999999982
+99th Percentile    : 244.0
+---------------------------------------------------------------
+#202	Threads: 800/800	Samples: 4162	Latency: 195	Resp.Time: 195	Errors: 0
+Time:201
+Expected op/per/sec: 7680
+Actual   Hit/per/sec: 4181
+Actual   Op/per/sec: 4181
+25th Percentile    : 182.0
+50th Percentile    : 188.0
+75th Percentile    : 195.0
+90th Percentile    : 207.0
+99th Percentile    : 244.0
+---------------------------------------------------------------
+#203	Threads: 800/800	Samples: 4058	Latency: 191	Resp.Time: 192	Errors: 0
+Time:202
+Expected op/per/sec: 7680
+Actual   Hit/per/sec: 4164
+Actual   Op/per/sec: 4164
+25th Percentile    : 185.0
+50th Percentile    : 189.0
+75th Percentile    : 200.0
+90th Percentile    : 211.0
+99th Percentile    : 292.71999999999935
+---------------------------------------------------------------
+#204	Threads: 800/800	Samples: 4124	Latency: 197	Resp.Time: 197	Errors: 0
+Time:203
+Expected op/per/sec: 7680
+Actual   Hit/per/sec: 4056
+Actual   Op/per/sec: 4056
+25th Percentile    : 183.0
+50th Percentile    : 189.0
+75th Percentile    : 197.0
+90th Percentile    : 207.0
+99th Percentile    : 248.0
+---------------------------------------------------------------
+#205	Threads: 800/800	Samples: 3433	Latency: 216	Resp.Time: 217	Errors: 0
+Time:204
+Expected op/per/sec: 7680
+Actual   Hit/per/sec: 4125
+Actual   Op/per/sec: 4125
+25th Percentile    : 186.0
+50th Percentile    : 192.0
+75th Percentile    : 203.0
+90th Percentile    : 215.0
+99th Percentile    : 281.5
+---------------------------------------------------------------
+#206	Threads: 800/800	Samples: 3376	Latency: 237	Resp.Time: 237	Errors: 0
+Time:205
+Expected op/per/sec: 7680
+Actual   Hit/per/sec: 3434
+Actual   Op/per/sec: 3434
+25th Percentile    : 190.0
+50th Percentile    : 212.0
+75th Percentile    : 231.0
+90th Percentile    : 256.0
+99th Percentile    : 357.65999999999985
+---------------------------------------------------------------
+#207	Threads: 800/800	Samples: 3566	Latency: 240	Resp.Time: 240	Errors: 0
+Time:206
+Expected op/per/sec: 7680
+Actual   Hit/per/sec: 3374
+Actual   Op/per/sec: 3374
+25th Percentile    : 199.0
+50th Percentile    : 236.0
+75th Percentile    : 257.0
+90th Percentile    : 293.0
+99th Percentile    : 406.0
+---------------------------------------------------------------
+#208	Threads: 800/800	Samples: 3086	Latency: 262	Resp.Time: 262	Errors: 0
+Time:207
+Expected op/per/sec: 7680
+Actual   Hit/per/sec: 3568
+Actual   Op/per/sec: 3568
+25th Percentile    : 201.0
+50th Percentile    : 232.0
+75th Percentile    : 266.0
+90th Percentile    : 307.0
+99th Percentile    : 404.6400000000003
+---------------------------------------------------------------
+#209	Threads: 800/800	Samples: 3963	Latency: 196	Resp.Time: 196	Errors: 0
+Time:208
+Expected op/per/sec: 7680
+Actual   Hit/per/sec: 3083
+Actual   Op/per/sec: 3083
+25th Percentile    : 199.0
+50th Percentile    : 241.0
+75th Percentile    : 298.0
+90th Percentile    : 397.0
+99th Percentile    : 452.0
+---------------------------------------------------------------
+#210	Threads: 800/800	Samples: 4229	Latency: 188	Resp.Time: 189	Errors: 0
+Time:209
+Expected op/per/sec: 7680
+Actual   Hit/per/sec: 3965
+Actual   Op/per/sec: 3965
+25th Percentile    : 182.0
+50th Percentile    : 191.0
+75th Percentile    : 203.0
+90th Percentile    : 216.0
+99th Percentile    : 323.3499999999999
+---------------------------------------------------------------
+#211	Threads: 800/800	Samples: 4144	Latency: 195	Resp.Time: 195	Errors: 0
+numSecPassedCondexpected:5 <=numSecPassedCond: 0
+Item:[5130, 5130, 10]
+********************baserps=5120  exprps=10  ****************
+Time:210
+Expected op/per/sec: 7680
+Actual   Hit/per/sec: 4229
+Actual   Op/per/sec: 4229
+25th Percentile    : 178.0
+50th Percentile    : 187.0
+75th Percentile    : 195.0
+90th Percentile    : 204.0
+99th Percentile    : 243.71000000000004
+---------------------------------------------------------------
+#212	Threads: 800/800	Samples: 4052	Latency: 194	Resp.Time: 194	Errors: 0
+Time:211
+Expected op/per/sec: 7680
+Actual   Hit/per/sec: 4145
+Actual   Op/per/sec: 4145
+25th Percentile    : 185.0
+50th Percentile    : 190.0
+75th Percentile    : 202.0
+90th Percentile    : 217.5
+99th Percentile    : 264.0
+---------------------------------------------------------------
+#213	Threads: 800/800	Samples: 4140	Latency: 195	Resp.Time: 195	Errors: 0
+Time:212
+Expected op/per/sec: 7680
+Actual   Hit/per/sec: 4050
+Actual   Op/per/sec: 4050
+25th Percentile    : 179.0
+50th Percentile    : 189.0
+75th Percentile    : 200.0
+90th Percentile    : 216.0
+99th Percentile    : 285.5
+---------------------------------------------------------------
+#214	Threads: 800/800	Samples: 4063	Latency: 196	Resp.Time: 197	Errors: 0
+Number of secs passed the criteria: 1
+Time:213
+Expected op/per/sec: 5130
+Actual   Hit/per/sec: 4140
+Actual   Op/per/sec: 4140
+25th Percentile    : 183.0
+50th Percentile    : 190.0
+75th Percentile    : 202.0
+90th Percentile    : 215.0
+99th Percentile    : 270.0
+---------------------------------------------------------------
+Time:214
+Expected op/per/sec: 5130
+Actual   Hit/per/sec: 4065
+Actual   Op/per/sec: 4065
+25th Percentile    : 186.0
+50th Percentile    : 192.0
+75th Percentile    : 204.0
+90th Percentile    : 218.0
+99th Percentile    : 265.0
+---------------------------------------------------------------
+#215	Threads: 800/800	Samples: 4038	Latency: 193	Resp.Time: 193	Errors: 0
+#216	Threads: 800/800	Samples: 4241	Latency: 189	Resp.Time: 190	Errors: 0
+Time:215
+Expected op/per/sec: 5130
+Actual   Hit/per/sec: 4037
+Actual   Op/per/sec: 4037
+25th Percentile    : 182.0
+50th Percentile    : 190.0
+75th Percentile    : 199.0
+90th Percentile    : 212.0
+99th Percentile    : 254.0
+---------------------------------------------------------------
+#217	Threads: 800/800	Samples: 4088	Latency: 195	Resp.Time: 195	Errors: 0
+Number of secs passed the criteria: 2
+Time:216
+Expected op/per/sec: 5130
+Actual   Hit/per/sec: 4242
+Actual   Op/per/sec: 4242
+25th Percentile    : 181.0
+50th Percentile    : 188.0
+75th Percentile    : 194.0
+90th Percentile    : 203.0
+99th Percentile    : 239.15999999999985
+---------------------------------------------------------------
+{'host': 'planetlab-1.calpoly-netlab.net', 'testplan': 'JMXes/50th100opse20sec.jmx', 'pingcnt': '5', 'n': True}
+          <stringProp name="clientType">com.netflix.jmeter.connections.thrift.ThriftConnection</stringProp>
+
+average latency is:
